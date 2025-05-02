@@ -136,16 +136,18 @@
             text-decoration: underline;
         }
     </style>
-	<script>		
-		let contact_items = document.querySelectorAll('div.contact-link');
-		
-		contact_items.forEach((item) => {
-			let a_item = document.createElement('a');
-			a_item.href = 'https://vk.com/dexheim';
-			a_item.target = '_blank';
-			a_item.text = 'Связаться';
-			item.appendChild(a_item);
-		});
+	<script>
+		window.onload = function() {
+			let contact_items = document.querySelectorAll('div.contact-link');
+			
+			contact_items.forEach((item) => {
+				let a_item = document.createElement('a');
+				a_item.href = 'https://vk.com/dexheim';
+				a_item.target = '_blank';
+				a_item.text = 'Связаться';
+				item.appendChild(a_item);
+			});
+		};
 	</script>
 </head>
 <body>
