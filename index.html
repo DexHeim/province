@@ -136,6 +136,15 @@
             text-decoration: underline;
         }
     </style>
+	<script>
+		for let contact_item in document.querySelectorAll('div.contact-link') {
+			let a_item = document.createElement('a');
+			a_item.href = 'https://vk.com/dexheim';
+			a_item.target = '_blank';
+			a_item.outerText = 'Связаться';
+			contact_item.addChildren(a_item);
+		}
+	</script>
 </head>
 <body>
 
@@ -166,7 +175,6 @@
 					<div class="details">
 						<div class="price">4.000.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
@@ -176,7 +184,6 @@
 					<div class="details">
 						<div class="price">2.000.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
@@ -186,7 +193,6 @@
 					<div class="details">
 						<div class="price">2.000.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
@@ -196,7 +202,6 @@
 					<div class="details">
 						<div class="price">1.500.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
@@ -209,7 +214,6 @@
 					<div class="details">
 						<div class="price">3.500.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
@@ -219,7 +223,6 @@
 					<div class="details">
 						<div class="price">3.000.000 ₽</div>
 						<div class="contact-link">
-							<a href="https://vk.com/dexheim" target="_blank">Связаться</a>
 						</div>
 					</div>
 				</div>
