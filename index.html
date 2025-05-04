@@ -155,6 +155,10 @@
 			storage = JSON.parse(request.responseText);
 		}
 		
+		function money() {
+			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".") + " ₽";
+		}
+		
 		function paintStorage() {
 			container = document.querySelector('div.container');
 		
@@ -188,7 +192,7 @@
 						item_image.alt = item.name;
 						item_container.appendChild(item_image);
 						
-						let item_name = document.createElement('h3');
+						let item_name = document.createElement('h4');
 						item_name.innerText = item.name;
 						item_container.appendChild(item_name);
 						
@@ -198,7 +202,7 @@
 						
 						let item_price = document.createElement('div');
 						item_price.className = 'price';
-						item_price.innerText = item.price;
+						item_price.innerText = money(item.price);
 						item_details.appendChild(item_price);
 						
 						let item_contact = document.createElement('div');
