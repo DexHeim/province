@@ -137,9 +137,10 @@
         }
     </style>
 	<script>
-		import data from './storage/data.json' assert {
-			type: 'json'
-		};
+		let request = new XMLHttpRequest();
+		request.open("GET", "../../storage/data.json", false);
+		request.send(null)
+		var storage = JSON.parse(request.responseText);
 		
 		window.onload = function() {		
 			let contact_items = document.querySelectorAll('div.contact-link');
