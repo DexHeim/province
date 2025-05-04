@@ -37,6 +37,77 @@
 							"img": "images/vinyls/2025_01.png"
 						}
 					]
+				},
+				{
+					"name": "halloween_2024",
+					"name_ru": "Хэллоуин 2024",
+					"items":
+					[
+						{
+							"name": "Винил «Алые Следы»",
+							"price": 6000000,
+							"img": "images/vinyls/blood.png"
+						},
+						{
+							"name": "Винил «Эфирная Полночь»",
+							"price": 5000000,
+							"img": "images/vinyls/ethmidnight.png"
+						}
+					]
+				},
+				{
+					"name": "winter_2024",
+					"name_ru": "Зима 2024",
+					"items":
+					[
+						{
+							"name": "Винил «Новогодний камуфляж»",
+							"price": 10000000,
+							"img": "images/vinyls/newyear_2024_1.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Камуфляж «Стихия асфальта»",
+							"price": 9000000,
+							"img": "images/vinyls/pattern_15.png"
+						},
+						{
+							"name": "Камуфляж «Осенний лес»",
+							"price": 9000000,
+							"img": "images/vinyls/pattern_14.png"
+						},
+						{
+							"name": "Камуфляж «Ржавчина»",
+							"price": 9000000,
+							"img": "images/vinyls/pattern_7.png"
+						},
+						{
+							"name": "Камуфляж «Живопись-2»",
+							"price": 4000000,
+							"img": "images/vinyls/pattern_16.png"
+						},
+						{
+							"name": "Полоса «Martini Racing»",
+							"price": 1000000,
+							"img": "images/vinyls/pattern_6.png"
+						},
+						{
+							"name": "Полоса белая",
+							"price": 500000,
+							"img": "images/vinyls/pattern_2.png"
+						},
+						{
+							"name": "Полоса черная",
+							"price": 500000,
+							"img": "images/vinyls/pattern_1.png"
+						}
+					]
 				}
 			]
 		}
