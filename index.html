@@ -138,6 +138,7 @@
     </style>
 	<script>
 		var storage;
+		var container;
 		
 		function loadStorage() {
 			let request = new XMLHttpRequest();
@@ -147,11 +148,11 @@
 		}
 		
 		function paintStorage() {
-			var container = document.querySelector('div.container');
+			container = document.querySelector('div.container');
 		
 			storage.chapters.forEach((item) => {
 				let chapter = document.createElement('h2');
-				chapter.text = item.name_ru;
+				chapter.innerText = item.name_ru;
 				container.appendChild(chapter);
 				
 				var chapter_items = document.createElement('div');
@@ -159,16 +160,16 @@
 				
 				item.sub_chapters.forEach((item) => {
 					let subchapter = document.createElement('h2');
-					subchapter.text = item.name_ru;
+					subchapter.innerText = item.name_ru;
 					chapter_items.appendChild(subchapter);
 					
 					var items_container = document.createElement('div');
-					items_container.class = 'item-list';
+					items_container.className = 'item-list';
 					chapter_items.appendChild(items_container);
 					
 					item.items.forEach((item) => {
 						let item_container = document.createElement('div');
-						item_container.class = 'item';
+						item_container.className = 'item';
 						items_container.appendChild(item_container);
 						
 						let item_image = document.createElement('img');
@@ -177,26 +178,26 @@
 						item_container.appendChild(item_image);
 						
 						let item_name = document.createElement('h3');
-						item_name.text = item.name;
+						item_name.innerText = item.name;
 						item_container.appendChild(item_name);
 						
 						let item_details = document.createElement('div');
-						item_details.class = 'details';
+						item_details.className = 'details';
 						item_container.appendChild(item_details);
 						
 						let item_price = document.createElement('div');
-						item_price.class = 'price';
-						item_price.text = item.price;
+						item_price.className = 'price';
+						item_price.innerText = item.price;
 						item_details.appendChild(item_price);
 						
 						let item_contact = document.createElement('div');
-						item_contact.class = 'contact-link';
+						item_contact.className = 'contact-link';
 						item_details.appendChild(item_contact);
 						
 						let a_item = document.createElement('a');
 						a_item.href = 'https://vk.com/dexheim';
 						a_item.target = '_blank';
-						a_item.text = 'Связаться';
+						a_item.innerText = 'Связаться';
 						item_contact.appendChild(a_item);
 					});
 				});
@@ -205,7 +206,9 @@
 		
 		loadStorage();
 		
-		window.onload = paintStorage();
+		window.onload = function() {
+			paintStorage();
+		};
 		/*
 		function() {
 			let contact_items = document.querySelectorAll('div.contact-link');
