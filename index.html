@@ -161,6 +161,7 @@
 			storage.chapters.forEach((item) => {
 				var chapter_name = item.name;
 				let chapter = document.querySelector('#' + chapter_name);
+				let chapter_container = document.querySelector('#' + chapter_name + '_container');
 				let a_chapter = document.createElement('a');
 				a_chapter.href = '#' + item.name;
 				a_chapter.innerText = item.name_ru;
@@ -175,7 +176,7 @@
 					
 					var items_container = document.createElement('div');
 					items_container.className = 'item-list';
-					chapter_items.appendChild(items_container);
+					chapter_container.appendChild(items_container);
 					
 					item.items.forEach((item) => {
 						let item_container = document.createElement('div');
@@ -255,13 +256,13 @@
 		<!-- Винилы -->
         <h2 id="vinyls"></h2>
         <div>
-			<h3 id="vinyls.winter_2025"></h3>
+			<h3 id="vinyls_winter_2025"></h3>
         </div>
 
         <!-- Винилы -->
         <h2 id="vinyls">Винилы</h2>
-        <div>
-			<h3 id="vinyls_winter_2025">Зима 2025</h3>
+        <div id="vinyls_container">
+			<h3 id="vinyls.winter_2025">Зима 2025</h3>
 			<div class="item-list">
 				<div class="item">
 					<img src="images/vinyls/2025_12.png" alt="Винил 'Тысяча порезов'">
