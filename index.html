@@ -149,7 +149,7 @@
 		function paintStorage() {
 			let container = document.querySelector('div.container');
 		
-			storage.forEach((item) => {
+			storage.chapters.forEach((item) => {
 				let chapter = document.createElement('h2');
 				chapter.text = item.name_ru;
 				container.appendChild(chapter);
@@ -157,7 +157,7 @@
 				let chapter_items = document.createElement('div');
 				container.appendChild(chapter_items);
 				
-				item.forEach((item) => {
+				item.sub_chapters.forEach((item) => {
 					let subchapter = document.createElement('h2');
 					subchapter.text = item.name_ru;
 					chapter_items.appendChild(subchapter);
