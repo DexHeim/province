@@ -138,7 +138,7 @@
     </style>
 	<script>
 		let request = new XMLHttpRequest();
-		request.open("GET", "../../storage/data.json", false);
+		request.open("GET", "./storage/data.json", false);
 		request.send(null)
 		var storage = JSON.parse(request.responseText);
 		
