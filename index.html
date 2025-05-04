@@ -147,14 +147,14 @@
 		}
 		
 		function paintStorage() {
-			let container = document.querySelector('div.container');
+			var container = document.querySelector('div.container');
 		
 			storage.chapters.forEach((item) => {
 				let chapter = document.createElement('h2');
 				chapter.text = item.name_ru;
 				container.appendChild(chapter);
 				
-				let chapter_items = document.createElement('div');
+				var chapter_items = document.createElement('div');
 				container.appendChild(chapter_items);
 				
 				item.sub_chapters.forEach((item) => {
@@ -162,7 +162,7 @@
 					subchapter.text = item.name_ru;
 					chapter_items.appendChild(subchapter);
 					
-					let items_container = document.createElement('div');
+					var items_container = document.createElement('div');
 					items_container.class = 'item-list';
 					chapter_items.appendChild(items_container);
 					
