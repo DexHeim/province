@@ -159,18 +159,19 @@
 			container = document.querySelector('div.container');
 		
 			storage.chapters.forEach((item) => {
-				let chapter = document.createElement('h2');
-				chapter.id = item.name;
-				chapter.innerText = item.name_ru;
-				container.appendChild(chapter);
-				
-				var chapter_items = document.createElement('div');
-				container.appendChild(chapter_items);
+				var chapter_name = item.name;
+				let chapter = document.querySelector('#' + chapter_name);
+				let a_chapter = document.createElement('a');
+				a_chapter.href = '#' + item.name;
+				a_chapter.innerText = item.name_ru;
+				chapter.appendChild(a_chapter);
 				
 				item.sub_chapters.forEach((item) => {
-					let subchapter = document.createElement('h2');
-					subchapter.innerText = item.name_ru;
-					chapter_items.appendChild(subchapter);
+					let subchapter = document.createElement('#' + chapter_name + '.' + item.name);
+					let a_subchapter = document.createElement('a');
+					a_subchapter.href = '#' + item.name;
+					a_subchapter.innerText = item.name_ru;
+					subchapter.appendChild(a_subchapter);
 					
 					var items_container = document.createElement('div');
 					items_container.className = 'item-list';
@@ -250,11 +251,17 @@
             <p>Список товаров иногда обновляется.</p>
             <p>Последнее обновление: <span id="last-update">02 мая 2025, 22:00</span></p>
         </div>
+		
+		<!-- Винилы -->
+        <h2 id="vinyls"></h2>
+        <div>
+			<h3 id="vinyls.winter_2025"></h3>
+        </div>
 
         <!-- Винилы -->
-        <h2>Винилы</h2>
+        <h2 id="vinyls">Винилы</h2>
         <div>
-			<h3>Зима 2025</h3>
+			<h3 id="vinyls.winter_2025">Зима 2025</h3>
 			<div class="item-list">
 				<div class="item">
 					<img src="images/vinyls/2025_12.png" alt="Винил 'Тысяча порезов'">
