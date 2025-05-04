@@ -142,8 +142,8 @@
 		
 		function loadStorage() {
 			let request = new XMLHttpRequest();
-			request.open("GET", "./storage/data.json", false);
-			request.send(null)
+			request.open("GET", "./storage/data.json?c=" + (new Date).getTime(), false);
+			request.send(null);
 			storage = JSON.parse(request.responseText);
 		}
 		
