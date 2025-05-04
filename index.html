@@ -138,6 +138,8 @@
     </style>
 	<script>
 		window.onload = function() {
+			var storage = require('./storage/data.json');
+		
 			let contact_items = document.querySelectorAll('div.contact-link');
 			
 			contact_items.forEach((item) => {

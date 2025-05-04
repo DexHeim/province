@@ -1,0 +1,44 @@
+{
+	chapters:
+	[
+		{
+			name: "vinyls",
+			name_ru: "Винилы",
+			sub_chapters:
+			[
+				{
+					name: "winter_2025",
+					name_ru: "Зима 2025",
+					items:
+					[
+						{
+							name: "Винил «Тысяча порезов»",
+							price: 8000000,
+							img: "images/vinyls/2025_12.png"
+						},
+						{
+							name: "Винил «Карбон»",
+							price: 6000000,
+							img: "images/vinyls/2025_13.png"
+						},
+						{
+							name: "Камуфляж «Абстракция»",
+							price: 5000000,
+							img: "images/vinyls/2025_15.png"
+						},
+						{
+							name: "Половина «Радиоактивность»",
+							price: 5000000,
+							img: "images/vinyls/2025_05.png"
+						},
+						{
+							name: "Полоса «Италия»",
+							price: 1500000,
+							img: "images/vinyls/2025_05.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}
