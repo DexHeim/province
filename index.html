@@ -137,12 +137,77 @@
         }
     </style>
 	<script>
-		let request = new XMLHttpRequest();
-		request.open("GET", "./storage/data.json", false);
-		request.send(null)
-		var storage = JSON.parse(request.responseText);
+		var storage;
 		
-		window.onload = function() {		
+		function loadStorage() {
+			let request = new XMLHttpRequest();
+			request.open("GET", "./storage/data.json", false);
+			request.send(null)
+			storage = JSON.parse(request.responseText);
+		}
+		
+		function paintStorage() {
+			let container = document.querySelector('div.container');
+		
+			storage.forEach((item) => {
+				let chapter = document.createElement('h2');
+				chapter.text = item.name_ru;
+				container.appendChild(chapter);
+				
+				let chapter_items = document.createElement('div');
+				container.appendChild(chapter_items);
+				
+				item.forEach((item) => {
+					let subchapter = document.createElement('h2');
+					subchapter.text = item.name_ru;
+					chapter_items.appendChild(subchapter);
+					
+					let items_container = document.createElement('div');
+					items_container.class = 'item-list';
+					chapter_items.appendChild(items_container);
+					
+					item.items.forEach((item) => {
+						let item_container = document.createElement('div');
+						item_container.class = 'item';
+						items_container.appendChild(item_container);
+						
+						let item_image = document.createElement('img');
+						item_image.src = item.img;
+						item_image.alt = item.name;
+						item_container.appendChild(item_image);
+						
+						let item_name = document.createElement('h3');
+						item_name.text = item.name;
+						item_container.appendChild(item_name);
+						
+						let item_details = document.createElement('div');
+						item_details.class = 'details';
+						item_container.appendChild(item_details);
+						
+						let item_price = document.createElement('div');
+						item_price.class = 'price';
+						item_price.text = item.price;
+						item_details.appendChild(item_price);
+						
+						let item_contact = document.createElement('div');
+						item_contact.class = 'contact-link';
+						item_details.appendChild(item_contact);
+						
+						let a_item = document.createElement('a');
+						a_item.href = 'https://vk.com/dexheim';
+						a_item.target = '_blank';
+						a_item.text = 'Связаться';
+						item_contact.appendChild(a_item);
+					});
+				});
+			});
+		}
+		
+		loadStorage();
+		
+		window.onload = paintStorage();
+		/*
+		function() {
 			let contact_items = document.querySelectorAll('div.contact-link');
 			
 			contact_items.forEach((item) => {
@@ -153,6 +218,7 @@
 				item.appendChild(a_item);
 			});
 		};
+		*/
 	</script>
 </head>
 <body>
