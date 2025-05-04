@@ -22,6 +22,11 @@
 							"img": "images/vinyls/2025_13.png"
 						},
 						{
+							"name": "Винил «Снеговики 2025»",
+							"price": 6000000,
+							"img": "images/vinyls/2025_08.png"
+						},
+						{
 							"name": "Камуфляж «Абстракция»",
 							"price": 5000000,
 							"img": "images/vinyls/2025_15.png"
@@ -52,6 +57,18 @@
 							"name": "Винил «Эфирная Полночь»",
 							"price": 5000000,
 							"img": "images/vinyls/ethmidnight.png"
+						}
+					]
+				},
+				{
+					"name": "10_year",
+					"name_ru": "10 лет вместе",
+					"items":
+					[
+						{
+							"name": "Винил «10 лет вместе»",
+							"price": 10000000,
+							"img": "images/vinyls/10years.png"
 						}
 					]
 				},
@@ -106,6 +123,102 @@
 							"name": "Полоса черная",
 							"price": 500000,
 							"img": "images/vinyls/pattern_1.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "disks",
+			"name_ru": "Диски",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Rotiform LAS-R AeroDisk «Снеговики-2025»",
+							"price": 4000000,
+							"img": "images/wheels/5170.png"
+						},
+						{
+							"name": "Rotiform LAS-R AeroDisk «Покемоны»",
+							"price": 4000000,
+							"img": "images/wheels/5169.png"
+						},
+						{
+							"name": "Ronal R9 Penta",
+							"price": 4000000,
+							"img": "images/wheels/5167.png"
+						},
+						{
+							"name": "Rotiform USF 3PC",
+							"price": 4000000,
+							"img": "images/wheels/5164.png"
+						}
+					]
+				},
+				{
+					"name": "tuning",
+					"name_ru": "Тюнинг-ателье",
+					"items":
+					[
+						{
+							"name": "Vorsteiner VFN",
+							"price": 1000000,
+							"img": "images/wheels/5037.png"
+						},
+						{
+							"name": "Work VS-KF",
+							"price": 1000000,
+							"img": "images/wheels/5072.png"
+						},
+						{
+							"name": "Volk Racing TE37SL",
+							"price": 1000000,
+							"img": "images/wheels/1073.png"
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"name": "helmets",
+			"name_ru": "Шлемы",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Мотошлем интеграл «Icon»",
+							"price": 1000000,
+							"img": "images/helmets/789.png"
+						},
+						{
+							"name": "Мотошлем интеграл «Icon»",
+							"price": 1000000,
+							"img": "images/helmets/790.png"
+						},
+						{
+							"name": "Мотошлем интеграл «Icon»",
+							"price": 1000000,
+							"img": "images/helmets/791.png"
+						},
+						{
+							"name": "Мотошлем интеграл «Icon»",
+							"price": 1000000,
+							"img": "images/helmets/788.png"
+						},
+						{
+							"name": "Мотошлем интеграл «Icon»",
+							"price": 1000000,
+							"img": "images/helmets/787.png"
 						}
 					]
 				}
