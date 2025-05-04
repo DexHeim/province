@@ -152,6 +152,7 @@
 		
 			storage.chapters.forEach((item) => {
 				let chapter = document.createElement('h2');
+				chapter.id = item.name;
 				chapter.innerText = item.name_ru;
 				container.appendChild(chapter);
 				
