@@ -167,11 +167,9 @@
 				chapter.appendChild(a_chapter);
 				
 				item.sub_chapters.forEach((item) => {
-					let subchapter = document.querySelector('#' + chapter_name + '\.' + item.name);
-					console.log('#' + chapter_name + '.' + item.name);
-					console.log(subchapter);
+					let subchapter = document.querySelector('#' + chapter_name + '_' + item.name);
 					let a_subchapter = document.createElement('a');
-					a_subchapter.href = '#' + item.name;
+					a_subchapter.href = '#' + chapter_name + '_' + item.name;
 					a_subchapter.innerText = item.name_ru;
 					subchapter.appendChild(a_subchapter);
 					
@@ -263,7 +261,7 @@
         <!-- Винилы -->
         <h2 id="vinyls">Винилы</h2>
         <div>
-			<h3 id="vinyls.winter_2025">Зима 2025</h3>
+			<h3 id="vinyls_winter_2025">Зима 2025</h3>
 			<div class="item-list">
 				<div class="item">
 					<img src="images/vinyls/2025_12.png" alt="Винил 'Тысяча порезов'">
