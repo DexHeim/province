@@ -155,7 +155,7 @@
 			storage = JSON.parse(request.responseText);
 		}
 		
-		function money() {
+		function money(x) {
 			return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".") + " ₽";
 		}
 		
