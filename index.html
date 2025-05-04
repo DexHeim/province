@@ -147,26 +147,26 @@
 		}
 		
 		function paintStorage() {
-			var container = document.querySelector('div.container');
+			let container = document.querySelector('div.container');
 		
-			storage.chapters.forEach((item) => {
+			storage.chapters.forEach((item, container) => {
 				let chapter = document.createElement('h2');
 				chapter.text = item.name_ru;
 				container.appendChild(chapter);
 				
-				var chapter_items = document.createElement('div');
+				let chapter_items = document.createElement('div');
 				container.appendChild(chapter_items);
 				
-				item.sub_chapters.forEach((item) => {
+				item.sub_chapters.forEach((item, chapter_items) => {
 					let subchapter = document.createElement('h2');
 					subchapter.text = item.name_ru;
 					chapter_items.appendChild(subchapter);
 					
-					var items_container = document.createElement('div');
+					let items_container = document.createElement('div');
 					items_container.class = 'item-list';
 					chapter_items.appendChild(items_container);
 					
-					item.items.forEach((item) => {
+					item.items.forEach((item, items_container) => {
 						let item_container = document.createElement('div');
 						item_container.class = 'item';
 						items_container.appendChild(item_container);
