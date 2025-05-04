@@ -168,6 +168,8 @@
 				
 				item.sub_chapters.forEach((item) => {
 					let subchapter = document.querySelector('#' + chapter_name + '.' + item.name);
+					console.log('#' + chapter_name + '.' + item.name);
+					console.log(subchapter);
 					let a_subchapter = document.createElement('a');
 					a_subchapter.href = '#' + item.name;
 					a_subchapter.innerText = item.name_ru;
