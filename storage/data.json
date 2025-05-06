@@ -336,7 +336,7 @@
 		},
 		{
 			"name": "helmets",
-			"name_ru": "Шлемы",
+			"name_ru": "Мотошлемы",
 			"sub_chapters":
 			[
 				{
@@ -368,6 +368,164 @@
 							"name": "Мотошлем интеграл «Icon»",
 							"price": 1000000,
 							"img": "images/helmets/787.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "backpacks",
+			"name_ru": "Рюкзаки",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Рюкзак «BALMAIN»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/805.png"
+						},
+						{
+							"name": "Рюкзак «BALMAIN»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/806.png"
+						},
+						{
+							"name": "Рюкзак «BAPE»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/809.png"
+						},
+						{
+							"name": "Рюкзак «BAPE»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/810.png"
+						},
+						{
+							"name": "Рюкзак «FENDI»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/807.png"
+						},
+						{
+							"name": "Рюкзак «FENDI»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/808.png"
+						},
+						{
+							"name": "Рюкзак «adidas Originals»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/814.png"
+						},
+						{
+							"name": "Рюкзак «adidas Originals»",
+							"price": 1000000,
+							"img": "images/backpacks/2025/813.png"
+						},
+						{
+							"name": "Рюкзак «Louis Vuitton»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/802.png"
+						},
+						{
+							"name": "Рюкзак «Vans»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/812.png"
+						}
+					]
+				},
+				{
+					"name": "halloween_2024",
+					"name_ru": "Хэллоуин 2024",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Beetlejuice»",
+							"price": 4000000,
+							"img": "images/backpacks/723.png"
+						},
+						{
+							"name": "Рюкзак «Glow Head»",
+							"price": 3500000,
+							"img": "images/backpacks/722.png"
+						}
+					]
+				},
+				{
+					"name": "radio_legend_2024",
+					"name_ru": "Radio Legend 2024 (Восьмилетие)",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Radio Legend»",
+							"price": 8000000,
+							"img": "images/backpacks/693.png"
+						}
+					]
+				},
+				{
+					"name": "10_year",
+					"name_ru": "10 лет вместе",
+					"items":
+					[
+						{
+							"name": "Рюкзак «С Юбилеем, Провинция»",
+							"price": 6000000,
+							"img": "images/backpacks/644.png"
+						}
+					]
+				},
+				{
+					"name": "winter_2024",
+					"name_ru": "Зима 2024",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Красный плед»",
+							"price": 10000000,
+							"img": "images/backpacks/620.png"
+						}
+					]
+				},
+				{
+					"name": "halloween_2023",
+					"name_ru": "Хэллоуин 2023",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Covenant»",
+							"price": 10000000,
+							"img": "images/backpacks/585.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Balenciaga» (5 сл.)",
+							"price": 3000000,
+							"img": "images/backpacks/2023/548.png"
+						},
+						{
+							"name": "Рюкзак «Eastpak» (5 сл.)",
+							"price": 10000000,
+							"img": "images/backpacks/2023/544.png"
+						}
+					]
+				},
+				{
+					"name": "spring_2023",
+					"name_ru": "Весна 2023",
+					"items":
+					[
+						{
+							"name": "Рюкзак «Nike» (5 сл.)",
+							"price": 20000000,
+							"img": "images/backpacks/346.png"
 						}
 					]
 				}
