@@ -148,15 +148,19 @@
 		var container;
 		
 		function exportStorage() {
+			let exportOut = '';
+			
 			storage.chapters.forEach((item) => {
-			console.log(item.name_ru);
+			exportOut += '\n' + '• ' + item.name_ru + '\n';
 				item.sub_chapters.forEach((item) => {
-					console.log(item.name_ru);
+					exportOut += '‣ ' + item.name_ru + '\n';
 					item.items.forEach((item) => {
-						console.log(item.name + ' - ' + money(item.price));
+						exportOut += '- ' + item.name + ' - ' + money(item.price) + '\n';
 					});
 				});
 			});
+			
+			console.log(exportOut);
 		}
 		
 		function loadStorage() {
