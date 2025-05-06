@@ -32,6 +32,11 @@
 							"img": "images/vinyls/2025_15.png"
 						},
 						{
+							"name": "Половина «Белая каллиграфия»",
+							"price": 5000000,
+							"img": "images/vinyls/2025_03.png"
+						},
+						{
 							"name": "Половина «Радиоактивность»",
 							"price": 5000000,
 							"img": "images/vinyls/2025_05.png"
@@ -67,7 +72,7 @@
 					[
 						{
 							"name": "Винил «10 лет вместе»",
-							"price": 10000000,
+							"price": 15000000,
 							"img": "images/vinyls/10years.png"
 						}
 					]
@@ -91,17 +96,17 @@
 					[
 						{
 							"name": "Камуфляж «Стихия асфальта»",
-							"price": 9000000,
+							"price": 10000000,
 							"img": "images/vinyls/pattern_15.png"
 						},
 						{
 							"name": "Камуфляж «Осенний лес»",
-							"price": 9000000,
+							"price": 10000000,
 							"img": "images/vinyls/pattern_14.png"
 						},
 						{
 							"name": "Камуфляж «Ржавчина»",
-							"price": 9000000,
+							"price": 10000000,
 							"img": "images/vinyls/pattern_7.png"
 						},
 						{
@@ -295,7 +300,7 @@
 						},
 						{
 							"name": "Камуфляж «Ночной дозор»",
-							"price": 1500000,
+							"price": 3000000,
 							"img": "images/number_frames/camouflage/102.png"
 						},
 						{
@@ -341,22 +346,22 @@
 					[
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1000000,
+							"price": 3000000,
 							"img": "images/helmets/789.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1000000,
+							"price": 1500000,
 							"img": "images/helmets/790.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1000000,
+							"price": 1500000,
 							"img": "images/helmets/791.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1000000,
+							"price": 1500000,
 							"img": "images/helmets/788.png"
 						},
 						{
