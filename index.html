@@ -151,9 +151,9 @@
 			let exportOut = '';
 			
 			storage.chapters.forEach((item) => {
-			exportOut += '\n' + '• ' + item.name_ru + '\n';
+			exportOut += '\n' + '‣ ' + item.name_ru + '\n';
 				item.sub_chapters.forEach((item) => {
-					exportOut += '‣ ' + item.name_ru + '\n';
+					exportOut += '• ' + item.name_ru + '\n';
 					item.items.forEach((item) => {
 						exportOut += '- ' + item.name + ' - ' + money(item.price) + '\n';
 					});
