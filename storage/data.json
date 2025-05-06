@@ -439,6 +439,99 @@
 			]
 		},
 		{
+			"name": "umbrellas",
+			"name_ru": "Зонты",
+			"sub_chapters":
+			[
+				{
+					"name": "halloween_2024",
+					"name_ru": "Хэллоуин 2024",
+					"items":
+					[
+						{
+							"name": "Зонт «Bat»",
+							"price": 1500000,
+							"img": "images/umbrellas/724.png"
+						},
+						{
+							"name": "Зонт «Halloween»",
+							"price": 1500000,
+							"img": "images/umbrellas/725.png"
+						}
+					]
+				},
+				{
+					"name": "halloween_2023",
+					"name_ru": "Хэллоуин 2023",
+					"items":
+					[
+						{
+							"name": "Зонт «G.O.A.T.»",
+							"price": 15000000,
+							"img": "images/umbrellas/593.png"
+						},
+						{
+							"name": "Зонт «Go Away»",
+							"price": 15000000,
+							"img": "images/umbrellas/590.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Зонт «Umbrella Corp.»",
+							"price": 1500000,
+							"img": "images/umbrellas/524.png"
+						},
+						{
+							"name": "Зонт «Арбуз»",
+							"price": 1500000,
+							"img": "images/umbrellas/519.png"
+						},
+						{
+							"name": "Зонт «Черный классический»",
+							"price": 1000000,
+							"img": "images/umbrellas/523.png"
+						},
+						{
+							"name": "Зонт «Белый»",
+							"price": 1000000,
+							"img": "images/umbrellas/528.png"
+						},
+						{
+							"name": "Зонт «Киви»",
+							"price": 700000,
+							"img": "images/umbrellas/521.png"
+						},
+						{
+							"name": "Зонт «Мишки»",
+							"price": 700000,
+							"img": "images/umbrellas/522.png"
+						},
+						{
+							"name": "Зонт «Красный»",
+							"price": 700000,
+							"img": "images/umbrellas/527.png"
+						},
+						{
+							"name": "Зонт «Жёлтый»",
+							"price": 700000,
+							"img": "images/umbrellas/526.png"
+						},
+						{
+							"name": "Зонт «Голубой»",
+							"price": 700000,
+							"img": "images/umbrellas/525.png"
+						}
+					]
+				}
+			]
+		},
+		{
 			"name": "backpacks",
 			"name_ru": "Рюкзаки",
 			"sub_chapters":
