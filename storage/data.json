@@ -13,7 +13,7 @@
 					[
 						{
 							"name": "Винил «Тысяча порезов»",
-							"price": 4000000,
+							"price": 5000000,
 							"img": "images/vinyls/2025_12.png"
 						},
 						{
@@ -23,7 +23,7 @@
 						},
 						{
 							"name": "Винил «Снеговики 2025»",
-							"price": 4000000,
+							"price": 5000000,
 							"img": "images/vinyls/2025_08.png"
 						},
 						{
@@ -145,22 +145,22 @@
 					[
 						{
 							"name": "Rotiform LAS-R AeroDisk «Снеговики-2025»",
-							"price": 5000000,
+							"price": 4000000,
 							"img": "images/wheels/5170.png"
 						},
 						{
 							"name": "Rotiform LAS-R AeroDisk «Покемоны»",
-							"price": 5000000,
+							"price": 4000000,
 							"img": "images/wheels/5169.png"
 						},
 						{
 							"name": "Ronal R9 Penta",
-							"price": 4000000,
+							"price": 3000000,
 							"img": "images/wheels/5167.png"
 						},
 						{
 							"name": "Rotiform USF 3PC",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/wheels/5164.png"
 						}
 					]
