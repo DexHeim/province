@@ -38,7 +38,7 @@
 						},
 						{
 							"name": "Половина «Радиоактивность»",
-							"price": 4000000,
+							"price": 5000000,
 							"img": "images/vinyls/2025_05.png"
 						},
 						{
@@ -55,12 +55,12 @@
 					[
 						{
 							"name": "Винил «Алые Следы»",
-							"price": 6000000,
+							"price": 5000000,
 							"img": "images/vinyls/blood.png"
 						},
 						{
 							"name": "Винил «Эфирная Полночь»",
-							"price": 5000000,
+							"price": 6000000,
 							"img": "images/vinyls/ethmidnight.png"
 						}
 					]
@@ -160,7 +160,7 @@
 						},
 						{
 							"name": "Rotiform USF 3PC",
-							"price": 2000000,
+							"price": 3000000,
 							"img": "images/wheels/5164.png"
 						}
 					]
