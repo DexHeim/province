@@ -147,6 +147,18 @@
 		var storage;
 		var container;
 		
+		function exportStorage() {
+			storage.chapters.forEach((item) => {
+			console.log(item.name_ru);
+				item.sub_chapters.forEach((item) => {
+					console.log(item.name_ru);
+					item.items.forEach((item) => {
+						console.log(item.name + ' - ' + money(item.price));
+					});
+				});
+			});
+		}
+		
 		function loadStorage() {
 			let request = new XMLHttpRequest();
 			request.open("GET", "./storage/data.json?c=" + (new Date).getTime(), false);
