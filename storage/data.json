@@ -384,6 +384,16 @@
 					"items":
 					[
 						{
+							"name": "Рюкзак «Louis Vuitton»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/802.png"
+						},
+						{
+							"name": "Рюкзак «Vans»",
+							"price": 1500000,
+							"img": "images/backpacks/2025/812.png"
+						},
+						{
 							"name": "Рюкзак «BALMAIN»",
 							"price": 1500000,
 							"img": "images/backpacks/2025/805.png"
@@ -422,16 +432,6 @@
 							"name": "Рюкзак «adidas Originals»",
 							"price": 1000000,
 							"img": "images/backpacks/2025/813.png"
-						},
-						{
-							"name": "Рюкзак «Louis Vuitton»",
-							"price": 1500000,
-							"img": "images/backpacks/2025/802.png"
-						},
-						{
-							"name": "Рюкзак «Vans»",
-							"price": 1500000,
-							"img": "images/backpacks/2025/812.png"
 						}
 					]
 				},
@@ -507,12 +507,12 @@
 					[
 						{
 							"name": "Рюкзак «Balenciaga» (5 сл.)",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/backpacks/2023/548.png"
 						},
 						{
 							"name": "Рюкзак «Eastpak» (5 сл.)",
-							"price": 10000000,
+							"price": 1000000,
 							"img": "images/backpacks/2023/544.png"
 						}
 					]
@@ -524,7 +524,7 @@
 					[
 						{
 							"name": "Рюкзак «Nike» (5 сл.)",
-							"price": 20000000,
+							"price": 1500000,
 							"img": "images/backpacks/346.png"
 						}
 					]
