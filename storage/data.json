@@ -13,22 +13,22 @@
 					[
 						{
 							"name": "Винил «Тысяча порезов»",
-							"price": 8000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_12.png"
 						},
 						{
 							"name": "Винил «Карбон»",
-							"price": 6000000,
+							"price": 3000000,
 							"img": "images/vinyls/2025_13.png"
 						},
 						{
 							"name": "Винил «Снеговики 2025»",
-							"price": 6000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_08.png"
 						},
 						{
 							"name": "Камуфляж «Абстракция»",
-							"price": 5000000,
+							"price": 3000000,
 							"img": "images/vinyls/2025_15.png"
 						},
 						{
@@ -38,7 +38,7 @@
 						},
 						{
 							"name": "Половина «Радиоактивность»",
-							"price": 5000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_05.png"
 						},
 						{
@@ -111,7 +111,7 @@
 						},
 						{
 							"name": "Камуфляж «Живопись-2»",
-							"price": 4000000,
+							"price": 3000000,
 							"img": "images/vinyls/pattern_16.png"
 						},
 						{
@@ -160,7 +160,7 @@
 						},
 						{
 							"name": "Rotiform USF 3PC",
-							"price": 4000000,
+							"price": 2000000,
 							"img": "images/wheels/5164.png"
 						}
 					]
