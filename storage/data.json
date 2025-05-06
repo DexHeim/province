@@ -255,32 +255,32 @@
 					[
 						{
 							"name": "Цветная «Оранжевый»",
-							"price": 5000000,
+							"price": 3000000,
 							"img": "images/number_frames/colors/71.png"
 						},
 						{
 							"name": "Цветная «Фиолетовый неон»",
-							"price": 5000000,
+							"price": 3000000,
 							"img": "images/number_frames/colors/77.png"
 						},
 						{
 							"name": "Цветная «Кислотный»",
-							"price": 5000000,
+							"price": 3000000,
 							"img": "images/number_frames/colors/80.png"
 						},
 						{
 							"name": "Цветная «Красный»",
-							"price": 500000,
+							"price": 700000,
 							"img": "images/number_frames/colors/74.png"
 						},
 						{
 							"name": "Цветная «Зеленый»",
-							"price": 500000,
+							"price": 700000,
 							"img": "images/number_frames/colors/85.png"
 						},
 						{
 							"name": "Цветная «Фиолетовый»",
-							"price": 500000,
+							"price": 700000,
 							"img": "images/number_frames/colors/76.png"
 						},
 						{
@@ -295,7 +295,7 @@
 						},
 						{
 							"name": "Камуфляж «Ночной дозор»",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/number_frames/camouflage/102.png"
 						},
 						{
@@ -363,6 +363,76 @@
 							"name": "Мотошлем интеграл «Icon»",
 							"price": 700000,
 							"img": "images/helmets/787.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "caps",
+			"name_ru": "Кепки",
+			"sub_chapters":
+			[
+				{
+					"name": "radio_legend_2024",
+					"name_ru": "Radio Legend 2024 (Восьмилетие)",
+					"items":
+					[
+						{
+							"name": "Кепка «Radio Legend»",
+							"price": 2000000,
+							"img": "images/head/caps/692.png"
+						}
+					]
+				},
+				{
+					"name": "eurovision_2024",
+					"name_ru": "Eurovision 2024",
+					"items":
+					[
+						{
+							"name": "Кепка «Eurovision 2024»",
+							"price": 1500000,
+							"img": "images/head/caps/682.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Двухцветная кепка «Palm Angels»",
+							"price": 1500000,
+							"img": "images/head/caps/422.png"
+						},
+						{
+							"name": "Кепка «Ami Paris»",
+							"price": 1000000,
+							"img": "images/head/caps/420.png"
+						},
+						{
+							"name": "Кепка «MLB NY Yankees»",
+							"price": 800000,
+							"img": "images/head/caps/411.png"
+						},
+						{
+							"name": "Красная кепка",
+							"price": 600000,
+							"img": "images/head/caps/425.png"
+						}
+					]
+				},
+				{
+					"name": "spring_2023",
+					"name_ru": "Весна 2023",
+					"items":
+					[
+						{
+							"name": "Кепка «Hugo Boss»",
+							"price": 1000000,
+							"img": "images/head/caps/352.png"
 						}
 					]
 				}
