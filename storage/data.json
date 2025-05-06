@@ -184,7 +184,151 @@
 				}
 			]
 		},
-		
+		{
+			"name": "number_frames",
+			"name_ru": "Номерные рамки",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Рамка «Сакура»",
+							"price": 1000000,
+							"img": "images/number_frames/2025/169.png"
+						},
+						{
+							"name": "Рамка «Зимний узор»",
+							"price": 1000000,
+							"img": "images/number_frames/2025/166.png"
+						},
+						{
+							"name": "Рамка «Циклон-2»",
+							"price": 500000,
+							"img": "images/number_frames/2025/165.png"
+						},
+						{
+							"name": "Рамка «Снеговики-2025»",
+							"price": 2000000,
+							"img": "images/number_frames/2025/158.png"
+						},
+						{
+							"name": "Рамка «Тысяча порезов»",
+							"price": 700000,
+							"img": "images/number_frames/2025/161.png"
+						},
+						{
+							"name": "Рамка «Winter Drift Machine»",
+							"price": 700000,
+							"img": "images/number_frames/2025/167.png"
+						},
+						{
+							"name": "Рамка «Радиоактивность»",
+							"price": 700000,
+							"img": "images/number_frames/2025/162.png"
+						}
+					]
+				},
+				{
+					"name": "halloween_2024",
+					"name_ru": "Хэллоуин 2024",
+					"items":
+					[
+						{
+							"name": "Рамка «Кровавая заря»",
+							"price": 3000000,
+							"img": "images/number_frames/156.png"
+						},
+						{
+							"name": "Рамка «Halloween 2024»",
+							"price": 3000000,
+							"img": "images/number_frames/155.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Цветная «Оранжевый»",
+							"price": 5000000,
+							"img": "images/number_frames/colors/71.png"
+						},
+						{
+							"name": "Цветная «Фиолетовый неон»",
+							"price": 5000000,
+							"img": "images/number_frames/colors/77.png"
+						},
+						{
+							"name": "Цветная «Кислотный»",
+							"price": 5000000,
+							"img": "images/number_frames/colors/80.png"
+						},
+						{
+							"name": "Цветная «Красный»",
+							"price": 500000,
+							"img": "images/number_frames/colors/74.png"
+						},
+						{
+							"name": "Цветная «Зеленый»",
+							"price": 500000,
+							"img": "images/number_frames/colors/85.png"
+						},
+						{
+							"name": "Цветная «Фиолетовый»",
+							"price": 500000,
+							"img": "images/number_frames/colors/76.png"
+						},
+						{
+							"name": "Цветная «Голубой»",
+							"price": 500000,
+							"img": "images/number_frames/colors/87.png"
+						},
+						{
+							"name": "Камуфляж «Шоковый бум»",
+							"price": 10000000,
+							"img": "images/number_frames/camouflage/58.png"
+						},
+						{
+							"name": "Камуфляж «Ночной дозор»",
+							"price": 1500000,
+							"img": "images/number_frames/camouflage/102.png"
+						},
+						{
+							"name": "Камуфляж «Озарённый лес»",
+							"price": 1000000,
+							"img": "images/number_frames/camouflage/94.png"
+						},
+						{
+							"name": "Камуфляж «Снежный барс»",
+							"price": 1000000,
+							"img": "images/number_frames/camouflage/106.png"
+						},
+						{
+							"name": "Камуфляж «Лесная маскировка»",
+							"price": 1000000,
+							"img": "images/number_frames/camouflage/90.png"
+						}
+					]
+				}
+				{
+					"name": "tuning",
+					"name_ru": "Тюнинг-ателье",
+					"items":
+					[
+						{
+							"name": "Золотая рамка PROVINCE",
+							"price": 500000,
+							"img": "images/number_frames/5037.png"
+						}
+					]
+				}
+			]
+		},
 		{
 			"name": "helmets",
 			"name_ru": "Шлемы",
