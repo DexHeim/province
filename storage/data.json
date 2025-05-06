@@ -105,11 +105,6 @@
 							"img": "images/vinyls/pattern_14.png"
 						},
 						{
-							"name": "Камуфляж «Ржавчина»",
-							"price": 10000000,
-							"img": "images/vinyls/pattern_7.png"
-						},
-						{
 							"name": "Камуфляж «Живопись-2»",
 							"price": 3000000,
 							"img": "images/vinyls/pattern_16.png"
@@ -155,7 +150,7 @@
 						},
 						{
 							"name": "Ronal R9 Penta",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/wheels/5167.png"
 						},
 						{
@@ -346,27 +341,27 @@
 					[
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/helmets/789.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1500000,
+							"price": 1300000,
 							"img": "images/helmets/790.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1500000,
+							"price": 1300000,
 							"img": "images/helmets/791.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/helmets/788.png"
 						},
 						{
 							"name": "Мотошлем интеграл «Icon»",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/helmets/787.png"
 						}
 					]
@@ -390,57 +385,57 @@
 						},
 						{
 							"name": "Рюкзак «Vans»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/812.png"
 						},
 						{
 							"name": "Рюкзак «Valentino Garavani»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/803.png"
 						},
 						{
 							"name": "Рюкзак «Valentino Garavani»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/804.png"
 						},
 						{
 							"name": "Рюкзак «BALMAIN»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/805.png"
 						},
 						{
 							"name": "Рюкзак «BALMAIN»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/806.png"
 						},
 						{
 							"name": "Рюкзак «BAPE»",
-							"price": 1000000,
+							"price": 900000,
 							"img": "images/backpacks/2025/809.png"
 						},
 						{
 							"name": "Рюкзак «BAPE»",
-							"price": 1000000,
+							"price": 900000,
 							"img": "images/backpacks/2025/810.png"
 						},
 						{
 							"name": "Рюкзак «FENDI»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/backpacks/2025/807.png"
 						},
 						{
 							"name": "Рюкзак «FENDI»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/backpacks/2025/808.png"
 						},
 						{
 							"name": "Рюкзак «adidas Originals»",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/backpacks/2025/814.png"
 						},
 						{
 							"name": "Рюкзак «adidas Originals»",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/backpacks/2025/813.png"
 						}
 					]
@@ -522,7 +517,7 @@
 						},
 						{
 							"name": "Рюкзак «Balenciaga» (5 сл.)",
-							"price": 2000000,
+							"price": 1500000,
 							"img": "images/backpacks/2023/548.png"
 						},
 						{
