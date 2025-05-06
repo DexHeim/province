@@ -506,6 +506,11 @@
 					"items":
 					[
 						{
+							"name": "Рюкзак «Burberry» (10 сл.)",
+							"price": 20000000,
+							"img": "images/backpacks/2023/541.png"
+						},
+						{
 							"name": "Рюкзак «Balenciaga» (5 сл.)",
 							"price": 2000000,
 							"img": "images/backpacks/2023/548.png"
