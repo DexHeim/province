@@ -479,7 +479,50 @@
 				}
 			]
 		},
-		
+		{
+			"name": "fur_headphones",
+			"name_ru": "Меховые наушники",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Меховые наушники «Yves Salomon Enfant» (черные)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/780.png"
+						},
+						{
+							"name": "Меховые наушники «Yves Salomon Enfant» (белые)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/781.png"
+						},
+						{
+							"name": "Меховые наушники «Yves Salomon Enfant» (коричневые)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/782.png"
+						},
+						{
+							"name": "Меховые наушники «Marmalato» (розовые)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/783.png"
+						},
+						{
+							"name": "Меховые наушники «Marmalato» (белые)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/784.png"
+						},
+						{
+							"name": "Меховые наушники «Marmalato» (коричневые)",
+							"price": 2000000,
+							"img": "images/head/headset/2025/785.png"
+						}
+					]
+				}
+			]
+		},
 		{
 			"name": "caps",
 			"name_ru": "Кепки",
