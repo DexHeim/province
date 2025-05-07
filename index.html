@@ -198,6 +198,8 @@
 					storage = JSON.parse(request.responseText);
 					const lastModified = new Date(request.getResponseHeader("Last-Modified"));
 					document.querySelector('#last-update').innerText = lastModified.toLocaleString("ru-RU", { timeZone: "UTC" });
+					
+					paintStorage();
 				}
 			};
 		}
@@ -265,9 +267,9 @@
 		
 		loadStorage();
 		
-		window.onload = function() {
-			paintStorage();
-		};
+		//window.onload = function() {
+		//	paintStorage();
+		//};
 	</script>
 </head>
 <body>
