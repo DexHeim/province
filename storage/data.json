@@ -32,11 +32,6 @@
 							"img": "images/vinyls/2025_15.png"
 						},
 						{
-							"name": "Половина «Белая каллиграфия»",
-							"price": 5000000,
-							"img": "images/vinyls/2025_03.png"
-						},
-						{
 							"name": "Половина «Радиоактивность»",
 							"price": 4000000,
 							"img": "images/vinyls/2025_05.png"
@@ -537,18 +532,6 @@
 							"name": "Кепка «Radio Legend»",
 							"price": 2000000,
 							"img": "images/head/caps/692.png"
-						}
-					]
-				},
-				{
-					"name": "eurovision_2024",
-					"name_ru": "Eurovision 2024",
-					"items":
-					[
-						{
-							"name": "Кепка «Eurovision 2024»",
-							"price": 1500000,
-							"img": "images/head/caps/682.png"
 						}
 					]
 				},
