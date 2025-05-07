@@ -61,18 +61,6 @@
 					]
 				},
 				{
-					"name": "10_year",
-					"name_ru": "10 лет вместе",
-					"items":
-					[
-						{
-							"name": "Винил «10 лет вместе»",
-							"price": 15000000,
-							"img": "images/vinyls/10years.png"
-						}
-					]
-				},
-				{
 					"name": "autumn_2023",
 					"name_ru": "Осень 2023",
 					"items":
