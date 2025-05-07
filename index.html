@@ -197,7 +197,7 @@
 				if (request.readyState == 4) {
 					storage = JSON.parse(request.responseText);
 					const lastModified = new Date(request.getResponseHeader("Last-Modified"));
-					document.querySelector('#last-update').innerText = lastModified.toLocaleString("ru-RU", { timeZone: "UTC" });
+					document.querySelector('#last-update').innerText = lastModified.toLocaleString("ru-RU", { timeZone: "+03:00" });
 					
 					paintStorage();
 				}
