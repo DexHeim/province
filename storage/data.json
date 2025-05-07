@@ -328,27 +328,27 @@
 					"items":
 					[
 						{
-							"name": "Мотошлем интеграл «Icon»",
+							"name": "Мотошлем интеграл «Icon» (оранжевый)",
 							"price": 2000000,
 							"img": "images/helmets/789.png"
 						},
 						{
-							"name": "Мотошлем интеграл «Icon»",
+							"name": "Мотошлем интеграл «Icon» (зеленый)",
 							"price": 1300000,
 							"img": "images/helmets/790.png"
 						},
 						{
-							"name": "Мотошлем интеграл «Icon»",
+							"name": "Мотошлем интеграл «Icon» (розовый)",
 							"price": 1300000,
 							"img": "images/helmets/791.png"
 						},
 						{
-							"name": "Мотошлем интеграл «Icon»",
+							"name": "Мотошлем интеграл «Icon» (бежевый)",
 							"price": 1000000,
 							"img": "images/helmets/788.png"
 						},
 						{
-							"name": "Мотошлем интеграл «Icon»",
+							"name": "Мотошлем интеграл «Icon» (серый)",
 							"price": 700000,
 							"img": "images/helmets/787.png"
 						}
@@ -368,67 +368,67 @@
 					[
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (черная)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/764.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (розовая)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/765.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (зеленая)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/766.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (оранжевая)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/767.png"
 						},
 						{
 							"name": "Шапка бини «Palm Angels» (черная)",
-							"price": 2000000,
+							"price": 300000,
 							"img": "images/head/winter/2025/768.png"
 						},
 						{
 							"name": "Шапка бини «Palm Angels» (белая)",
-							"price": 2000000,
+							"price": 300000,
 							"img": "images/head/winter/2025/769.png"
 						},
 						{
-							"name": "Шапка-ушанка «VICTORIA KUSENKOVA»",
-							"price": 2000000,
+							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (черная)",
+							"price": 1000000,
 							"img": "images/head/winter/2025/762.png"
 						},
 						{
 							"name": "Пилотка «PRADA» (черная)",
-							"price": 2000000,
+							"price": 300000,
 							"img": "images/head/winter/2025/756.png"
 						},
 						{
 							"name": "Пилотка «PRADA» (бежевая)",
-							"price": 2000000,
+							"price": 300000,
 							"img": "images/head/winter/2025/757.png"
 						},
 						{
 							"name": "Шапка бини «MARNI» (черная)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/777.png"
 						},
 						{
 							"name": "Шапка бини «MARNI» (белая)",
-							"price": 2000000,
+							"price": 200000,
 							"img": "images/head/winter/2025/776.png"
 						},
 						{
 							"name": "Шапка бини «Stone Island» (черная)",
-							"price": 2000000,
+							"price": 500000,
 							"img": "images/head/winter/2025/772.png"
 						},
 						{
 							"name": "Шапка бини «Fred Perry» (черная)",
-							"price": 2000000,
+							"price": 500000,
 							"img": "images/head/winter/2025/770.png"
 						}
 					]
@@ -440,12 +440,12 @@
 					[
 						{
 							"name": "Черная шапка «The North Face»",
-							"price": 2000000,
+							"price": 1500000,
 							"img": "images/head/winter/2023/356.png"
 						},
 						{
-							"name": "Шапка «Пикачу с ушками»",
-							"price": 2000000,
+							"name": "Шапка «Пикачу с ушками» (желтая)",
+							"price": 500000,
 							"img": "images/head/winter/2023/339.png"
 						}
 					]
@@ -457,12 +457,17 @@
 					[
 						{
 							"name": "Шапка «Снежный кум»",
-							"price": 2000000,
+							"price": 1500000,
 							"img": "images/head/winter/2023/295.png"
 						},
 						{
 							"name": "Шапка «Генерал Мороз»",
-							"price": 2000000,
+							"price": 700000,
+							"img": "images/head/winter/2023/hatRed.png"
+						},
+						{
+							"name": "Шапка «Свихнувшийся дед»",
+							"price": 700000,
 							"img": "images/head/winter/2023/hatRed.png"
 						},
 						{
@@ -557,12 +562,12 @@
 					[
 						{
 							"name": "Панама «MARNI»",
-							"price": 2000000,
+							"price": 500000,
 							"img": "images/head/panams/2025/778.png"
 						},
 						{
 							"name": "Панама «MARNI»",
-							"price": 1300000,
+							"price": 500000,
 							"img": "images/head/panams/2025/779.png"
 						}
 					]
@@ -584,7 +589,7 @@
 						},
 						{
 							"name": "Летняя панама",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/head/panams/2023/435.png"
 						}
 					]
@@ -608,12 +613,12 @@
 						},
 						{
 							"name": "Соломенная синяя шляпа",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/head/hats/450.png"
 						},
 						{
 							"name": "Соломенная белая шляпа",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/head/hats/449.png"
 						}
 					]
