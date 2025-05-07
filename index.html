@@ -194,6 +194,15 @@
 			request.open("GET", "./storage/data.json?c=" + (new Date).getTime(), false);
 			request.send(null);
 			storage = JSON.parse(request.responseText);
+			request.onreadystatechange = () => {
+				if (request.readyState === request.HEADERS_RECEIVED) {
+					const lastModified = new Date(request.getResponseHeader("Last-Modified"));
+					document.querySelector('#last-update').innerText + lastModified.toLocaleString("ru-RU", { timeZone: "UTC" });
+				}
+				if (request.readyState == 4) {
+					storage = JSON.parse(request.responseText);
+				}
+			};
 		}
 		
 		function money(x) {
@@ -278,7 +287,7 @@
 		<!-- Информация об обновлении -->
 		<div class="update-info">
 			<p>Список товаров иногда обновляется. Цены не окончательные, торг присутствует!</p>
-			<p>Последнее обновление: <span id="last-update">07 мая 2025, 16:40</span></p>
+			<p>Последнее обновление: <span id="last-update"></span></p>
 		</div>
 		
 		<!-- Винилы -->
