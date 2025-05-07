@@ -78,11 +78,6 @@
 					"items":
 					[
 						{
-							"name": "Камуфляж «Стихия асфальта»",
-							"price": 10000000,
-							"img": "images/vinyls/pattern_15.png"
-						},
-						{
 							"name": "Камуфляж «Осенний лес»",
 							"price": 10000000,
 							"img": "images/vinyls/pattern_14.png"
