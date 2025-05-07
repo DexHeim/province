@@ -191,16 +191,13 @@
 		
 		function loadStorage() {
 			let request = new XMLHttpRequest();
-			request.open("GET", "./storage/data.json?c=" + (new Date).getTime(), false);
+			request.open("GET", "./storage/data.json?c=" + (new Date).getTime(), true);
 			request.send(null);
-			storage = JSON.parse(request.responseText);
 			request.onreadystatechange = () => {
-				if (request.readyState === request.HEADERS_RECEIVED) {
-					const lastModified = new Date(request.getResponseHeader("Last-Modified"));
-					document.querySelector('#last-update').innerText + lastModified.toLocaleString("ru-RU", { timeZone: "UTC" });
-				}
 				if (request.readyState == 4) {
 					storage = JSON.parse(request.responseText);
+					const lastModified = new Date(request.getResponseHeader("Last-Modified"));
+					document.querySelector('#last-update').innerText = lastModified.toLocaleString("ru-RU", { timeZone: "UTC" });
 				}
 			};
 		}
