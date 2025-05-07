@@ -78,18 +78,6 @@
 					]
 				},
 				{
-					"name": "winter_2024",
-					"name_ru": "Зима 2024",
-					"items":
-					[
-						{
-							"name": "Винил «Новогодний камуфляж»",
-							"price": 10000000,
-							"img": "images/vinyls/newyear_2024_1.png"
-						}
-					]
-				},
-				{
 					"name": "autumn_2023",
 					"name_ru": "Осень 2023",
 					"items":
