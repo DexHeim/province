@@ -145,17 +145,43 @@
 	</style>
 	<script>
 		var storage;
-		var container;
 		
 		function exportStorage() {
 			let exportOut = '';
+			var chapter = document.querySelector('#export_items');
+			
+			var items_container = document.createElement('div');
+			items_container.className = 'item-list';
+			chapter.parentNode.appendChild(items_container);
 			
 			storage.chapters.forEach((item) => {
-			exportOut += '\n' + '‣ ' + item.name_ru + '\n';
+				exportOut += '\n' + '‣ ' + item.name_ru + '\n';
 				item.sub_chapters.forEach((item) => {
 					exportOut += '• ' + item.name_ru + '\n';
 					item.items.forEach((item) => {
 						exportOut += '- ' + item.name + ' - ' + money(item.price) + '\n';
+						
+						let item_container = document.createElement('div');
+						item_container.className = 'item';
+						items_container.appendChild(item_container);
+						
+						let item_image = document.createElement('img');
+						item_image.src = item.img;
+						item_image.alt = item.name;
+						item_container.appendChild(item_image);
+						
+						let item_name = document.createElement('h4');
+						item_name.innerText = item.name;
+						item_container.appendChild(item_name);
+						
+						let item_details = document.createElement('div');
+						item_details.className = 'details';
+						item_container.appendChild(item_details);
+						
+						let item_price = document.createElement('div');
+						item_price.className = 'price';
+						item_price.innerText = money(item.price);
+						item_details.appendChild(item_price);
 					});
 				});
 			});
@@ -175,8 +201,6 @@
 		}
 		
 		function paintStorage() {
-			container = document.querySelector('div.container');
-		
 			storage.chapters.forEach((item) => {
 				var chapter_name = item.name;
 				let chapter = document.querySelector('#' + chapter_name);
@@ -420,6 +444,13 @@
 		
 		<!-- Прочие аксессуары -->
 		
+		<!-- Экспорт -->
+		<h2 id="export"></h2>
+		<div>
+			<div>
+				<h3 id="export_items"></h3>
+			</div>
+		</div>
 	</div>
 
 	<footer>
