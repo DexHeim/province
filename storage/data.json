@@ -18,7 +18,7 @@
 						},
 						{
 							"name": "Винил «Карбон»",
-							"price": 3000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_13.png"
 						},
 						{
@@ -28,7 +28,7 @@
 						},
 						{
 							"name": "Камуфляж «Абстракция»",
-							"price": 3000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_15.png"
 						},
 						{
@@ -38,7 +38,7 @@
 						},
 						{
 							"name": "Половина «Радиоактивность»",
-							"price": 5000000,
+							"price": 4000000,
 							"img": "images/vinyls/2025_05.png"
 						},
 						{
@@ -357,6 +357,125 @@
 			]
 		},
 		{
+			"name": "winter_hats",
+			"name_ru": "Шапки",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Шапка «Charles Jeffrey Loverboy» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/764.png"
+						},
+						{
+							"name": "Шапка «Charles Jeffrey Loverboy» (розовая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/765.png"
+						},
+						{
+							"name": "Шапка «Charles Jeffrey Loverboy» (зеленая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/766.png"
+						},
+						{
+							"name": "Шапка «Charles Jeffrey Loverboy» (оранжевая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/767.png"
+						},
+						{
+							"name": "Шапка бини «Palm Angels» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/768.png"
+						},
+						{
+							"name": "Шапка бини «Palm Angels» (белая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/769.png"
+						},
+						{
+							"name": "Шапка-ушанка «VICTORIA KUSENKOVA»",
+							"price": 2000000,
+							"img": "images/head/winter/2025/762.png"
+						},
+						{
+							"name": "Пилотка «PRADA» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/756.png"
+						},
+						{
+							"name": "Пилотка «PRADA» (бежевая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/757.png"
+						},
+						{
+							"name": "Шапка бини «MARNI» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/777.png"
+						},
+						{
+							"name": "Шапка бини «MARNI» (белая)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/776.png"
+						},
+						{
+							"name": "Шапка бини «Stone Island» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/772.png"
+						},
+						{
+							"name": "Шапка бини «Fred Perry» (черная)",
+							"price": 2000000,
+							"img": "images/head/winter/2025/770.png"
+						}
+					]
+				},
+				{
+					"name": "spring_2023",
+					"name_ru": "Весна 2023",
+					"items":
+					[
+						{
+							"name": "Черная шапка «The North Face»",
+							"price": 2000000,
+							"img": "images/head/winter/2023/356.png"
+						},
+						{
+							"name": "Шапка «Пикачу с ушками»",
+							"price": 2000000,
+							"img": "images/head/winter/2023/339.png"
+						}
+					]
+				},
+				{
+					"name": "winter_2023",
+					"name_ru": "Зима 2023",
+					"items":
+					[
+						{
+							"name": "Шапка «Снежный кум»",
+							"price": 2000000,
+							"img": "images/head/winter/2023/295.png"
+						},
+						{
+							"name": "Шапка «Генерал Мороз»",
+							"price": 2000000,
+							"img": "images/head/winter/2023/hatRed.png"
+						},
+						{
+							"name": "Классическая ушанка",
+							"price": 2000000,
+							"img": "images/head/winter/2023/323.png"
+						}
+					]
+				}
+			]
+		},
+		
+		{
 			"name": "caps",
 			"name_ru": "Кепки",
 			"sub_chapters":
@@ -421,6 +540,81 @@
 							"name": "Кепка «Hugo Boss»",
 							"price": 1000000,
 							"img": "images/head/caps/352.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "panams",
+			"name_ru": "Панамы",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Панама «MARNI»",
+							"price": 2000000,
+							"img": "images/head/panams/2025/778.png"
+						},
+						{
+							"name": "Панама «MARNI»",
+							"price": 1300000,
+							"img": "images/head/panams/2025/779.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Панама «Fred Perry»",
+							"price": 1500000,
+							"img": "images/head/panams/2023/429.png"
+						},
+						{
+							"name": "Панама «Polo Ralph Lauren»",
+							"price": 1000000,
+							"img": "images/head/panams/2023/428.png"
+						},
+						{
+							"name": "Летняя панама",
+							"price": 1000000,
+							"img": "images/head/panams/2023/435.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "hats",
+			"name_ru": "Шляпы",
+			"sub_chapters":
+			[
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Шляпа с принтом леопарда",
+							"price": 1500000,
+							"img": "images/head/hats/448.png"
+						},
+						{
+							"name": "Соломенная синяя шляпа",
+							"price": 1000000,
+							"img": "images/head/hats/450.png"
+						},
+						{
+							"name": "Соломенная белая шляпа",
+							"price": 1000000,
+							"img": "images/head/hats/449.png"
 						}
 					]
 				}
