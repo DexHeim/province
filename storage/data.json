@@ -260,19 +260,9 @@
 							"img": "images/number_frames/camouflage/58.png"
 						},
 						{
-							"name": "Камуфляж «Ночной дозор»",
-							"price": 2000000,
-							"img": "images/number_frames/camouflage/102.png"
-						},
-						{
 							"name": "Камуфляж «Озарённый лес»",
 							"price": 1000000,
 							"img": "images/number_frames/camouflage/94.png"
-						},
-						{
-							"name": "Камуфляж «Снежный барс»",
-							"price": 1000000,
-							"img": "images/number_frames/camouflage/106.png"
 						},
 						{
 							"name": "Камуфляж «Лесная маскировка»",
