@@ -37,8 +37,13 @@
 							"img": "images/vinyls/2025_05.png"
 						},
 						{
+							"name": "Полоса «Германия»",
+							"price": 3000000,
+							"img": "images/vinyls/2025_02.png"
+						},
+						{
 							"name": "Полоса «Италия»",
-							"price": 1500000,
+							"price": 2000000,
 							"img": "images/vinyls/2025_01.png"
 						}
 					]
