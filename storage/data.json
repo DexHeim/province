@@ -240,11 +240,6 @@
 							"img": "images/number_frames/colors/80.png"
 						},
 						{
-							"name": "Цветная «Красный»",
-							"price": 700000,
-							"img": "images/number_frames/colors/74.png"
-						},
-						{
 							"name": "Цветная «Зеленый»",
 							"price": 700000,
 							"img": "images/number_frames/colors/85.png"
@@ -253,11 +248,6 @@
 							"name": "Цветная «Фиолетовый»",
 							"price": 700000,
 							"img": "images/number_frames/colors/76.png"
-						},
-						{
-							"name": "Цветная «Голубой»",
-							"price": 500000,
-							"img": "images/number_frames/colors/87.png"
 						},
 						{
 							"name": "Камуфляж «Шоковый бум»",
@@ -283,7 +273,7 @@
 					[
 						{
 							"name": "Золотая рамка PROVINCE",
-							"price": 500000,
+							"price": 450000,
 							"img": "images/number_frames/60.png"
 						}
 					]
@@ -415,11 +405,6 @@
 							"name": "Черная шапка «The North Face»",
 							"price": 1500000,
 							"img": "images/head/winter/2023/356.png"
-						},
-						{
-							"name": "Шапка «Пикачу с ушками» (желтая)",
-							"price": 500000,
-							"img": "images/head/winter/2023/339.png"
 						}
 					]
 				},
@@ -593,7 +578,7 @@
 						},
 						{
 							"name": "Летняя панама",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/head/panams/2023/435.png"
 						}
 					]
