@@ -60,12 +60,12 @@
 					[
 						{
 							"name": "Винил «Алые Следы»",
-							"price": 5000000,
+							"price": 4000000,
 							"img": "images/vinyls/blood.png"
 						},
 						{
 							"name": "Винил «Эфирная Полночь»",
-							"price": 6000000,
+							"price": 5000000,
 							"img": "images/vinyls/ethmidnight.png"
 						}
 					]
@@ -87,17 +87,17 @@
 						},
 						{
 							"name": "Полоса «Martini Racing»",
-							"price": 1000000,
+							"price": 1500000,
 							"img": "images/vinyls/pattern_6.png"
 						},
 						{
 							"name": "Полоса белая",
-							"price": 500000,
+							"price": 700000,
 							"img": "images/vinyls/pattern_2.png"
 						},
 						{
 							"name": "Полоса черная",
-							"price": 500000,
+							"price": 700000,
 							"img": "images/vinyls/pattern_1.png"
 						}
 					]
@@ -116,12 +116,12 @@
 					[
 						{
 							"name": "Rotiform LAS-R AeroDisk «Снеговики-2025»",
-							"price": 4000000,
+							"price": 3000000,
 							"img": "images/wheels/5170.png"
 						},
 						{
 							"name": "Rotiform LAS-R AeroDisk «Покемоны»",
-							"price": 4000000,
+							"price": 3000000,
 							"img": "images/wheels/5169.png"
 						},
 						{
@@ -143,12 +143,12 @@
 					[
 						{
 							"name": "Vorsteiner VFN",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/wheels/5037.png"
 						},
 						{
 							"name": "Work VS-KF",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/wheels/5072.png"
 						},
 						{
@@ -172,22 +172,22 @@
 					[
 						{
 							"name": "Рамка «Сакура»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/number_frames/2025/169.png"
 						},
 						{
 							"name": "Рамка «Зимний узор»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/number_frames/2025/166.png"
 						},
 						{
 							"name": "Рамка «Циклон-2»",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/number_frames/2025/165.png"
 						},
 						{
 							"name": "Рамка «Снеговики-2025»",
-							"price": 2000000,
+							"price": 800000,
 							"img": "images/number_frames/2025/158.png"
 						},
 						{
@@ -197,12 +197,12 @@
 						},
 						{
 							"name": "Рамка «Winter Drift Machine»",
-							"price": 700000,
+							"price": 600000,
 							"img": "images/number_frames/2025/167.png"
 						},
 						{
 							"name": "Рамка «Радиоактивность»",
-							"price": 700000,
+							"price": 600000,
 							"img": "images/number_frames/2025/162.png"
 						}
 					]
@@ -214,12 +214,12 @@
 					[
 						{
 							"name": "Рамка «Кровавая заря»",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/number_frames/156.png"
 						},
 						{
 							"name": "Рамка «Halloween 2024»",
-							"price": 3000000,
+							"price": 2000000,
 							"img": "images/number_frames/155.png"
 						}
 					]
@@ -278,7 +278,7 @@
 					[
 						{
 							"name": "Золотая рамка PROVINCE",
-							"price": 450000,
+							"price": 400000,
 							"img": "images/number_frames/60.png"
 						}
 					]
@@ -312,7 +312,7 @@
 						},
 						{
 							"name": "Мотошлем интеграл «Icon» (бежевый)",
-							"price": 1000000,
+							"price": 1300000,
 							"img": "images/helmets/788.png"
 						},
 						{
@@ -336,32 +336,32 @@
 					[
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (черная)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/764.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (розовая)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/765.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (зеленая)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/766.png"
 						},
 						{
 							"name": "Шапка «Charles Jeffrey Loverboy» (оранжевая)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/767.png"
 						},
 						{
 							"name": "Шапка бини «Palm Angels» (черная)",
-							"price": 300000,
+							"price": 200000,
 							"img": "images/head/winter/2025/768.png"
 						},
 						{
 							"name": "Шапка бини «Palm Angels» (белая)",
-							"price": 300000,
+							"price": 200000,
 							"img": "images/head/winter/2025/769.png"
 						},
 						{
@@ -381,12 +381,12 @@
 						},
 						{
 							"name": "Шапка бини «MARNI» (черная)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/777.png"
 						},
 						{
 							"name": "Шапка бини «MARNI» (белая)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/winter/2025/776.png"
 						},
 						{
@@ -395,9 +395,19 @@
 							"img": "images/head/winter/2025/772.png"
 						},
 						{
+							"name": "Шапка бини «Stone Island» (белая)",
+							"price": 500000,
+							"img": "images/head/winter/2025/773.png"
+						},
+						{
 							"name": "Шапка бини «Fred Perry» (черная)",
 							"price": 500000,
 							"img": "images/head/winter/2025/770.png"
+						},
+						{
+							"name": "Шапка бини «Fred Perry» (белая)",
+							"price": 500000,
+							"img": "images/head/winter/2025/771.png"
 						}
 					]
 				},
@@ -430,12 +440,12 @@
 						},
 						{
 							"name": "Шапка «Свихнувшийся дед»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/head/winter/2023/hatRed.png"
 						},
 						{
 							"name": "Классическая ушанка",
-							"price": 3000000,
+							"price": 2500000,
 							"img": "images/head/winter/2023/323.png"
 						}
 					]
@@ -454,32 +464,32 @@
 					[
 						{
 							"name": "Меховые наушники «Yves Salomon Enfant» (черные)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/780.png"
 						},
 						{
 							"name": "Меховые наушники «Yves Salomon Enfant» (белые)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/781.png"
 						},
 						{
 							"name": "Меховые наушники «Yves Salomon Enfant» (коричневые)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/782.png"
 						},
 						{
 							"name": "Меховые наушники «Marmalato» (розовые)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/783.png"
 						},
 						{
 							"name": "Меховые наушники «Marmalato» (белые)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/784.png"
 						},
 						{
 							"name": "Меховые наушники «Marmalato» (коричневые)",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/head/headset/2025/785.png"
 						}
 					]
@@ -500,6 +510,18 @@
 							"name": "Кепка «Radio Legend»",
 							"price": 2000000,
 							"img": "images/head/caps/692.png"
+						}
+					]
+				},
+				{
+					"name": "10_year",
+					"name_ru": "10 лет вместе",
+					"items":
+					[
+						{
+							"name": "Кепка «С Юбилеем, Провинция»",
+							"price": 1000000,
+							"img": "images/head/caps/645.png"
 						}
 					]
 				},
@@ -556,12 +578,12 @@
 					[
 						{
 							"name": "Панама «MARNI»",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/panams/2025/778.png"
 						},
 						{
 							"name": "Панама «MARNI»",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/panams/2025/779.png"
 						}
 					]
@@ -572,13 +594,13 @@
 					"items":
 					[
 						{
-							"name": "Панама «Fred Perry»",
+							"name": "Панама «Fred Perry» (фиолетовая редкость)",
 							"price": 1500000,
 							"img": "images/head/panams/2023/429.png"
 						},
 						{
 							"name": "Панама «Polo Ralph Lauren»",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/head/panams/2023/428.png"
 						},
 						{
@@ -601,7 +623,7 @@
 					"items":
 					[
 						{
-							"name": "Шляпа с принтом леопарда",
+							"name": "Шляпа с принтом леопарда (фиолетовая редкость)",
 							"price": 1500000,
 							"img": "images/head/hats/448.png"
 						},
@@ -664,48 +686,48 @@
 					"items":
 					[
 						{
-							"name": "Зонт «Umbrella Corp.»",
+							"name": "Зонт «Umbrella Corp.» (фиолетовая редкость)",
 							"price": 1500000,
 							"img": "images/umbrellas/524.png"
 						},
 						{
-							"name": "Зонт «Арбуз»",
+							"name": "Зонт «Арбуз» (фиолетовая редкость)",
 							"price": 1500000,
 							"img": "images/umbrellas/519.png"
 						},
 						{
-							"name": "Зонт «Черный классический»",
-							"price": 1000000,
+							"name": "Зонт «Черный классический» (красная редкость)",
+							"price": 800000,
 							"img": "images/umbrellas/523.png"
 						},
 						{
-							"name": "Зонт «Белый»",
-							"price": 1000000,
+							"name": "Зонт «Белый» (красная редкость)",
+							"price": 800000,
 							"img": "images/umbrellas/528.png"
 						},
 						{
 							"name": "Зонт «Киви»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/umbrellas/521.png"
 						},
 						{
 							"name": "Зонт «Мишки»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/umbrellas/522.png"
 						},
 						{
 							"name": "Зонт «Красный»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/umbrellas/527.png"
 						},
 						{
 							"name": "Зонт «Жёлтый»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/umbrellas/526.png"
 						},
 						{
 							"name": "Зонт «Голубой»",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/umbrellas/525.png"
 						}
 					]
@@ -724,62 +746,62 @@
 					[
 						{
 							"name": "Рюкзак «Louis Vuitton»",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2025/802.png"
 						},
 						{
 							"name": "Рюкзак «Vans»",
-							"price": 1000000,
+							"price": 700000,
 							"img": "images/backpacks/2025/812.png"
 						},
 						{
 							"name": "Рюкзак «Valentino Garavani»",
-							"price": 1000000,
+							"price": 900000,
 							"img": "images/backpacks/2025/803.png"
 						},
 						{
 							"name": "Рюкзак «Valentino Garavani»",
-							"price": 1000000,
+							"price": 900000,
 							"img": "images/backpacks/2025/804.png"
 						},
 						{
 							"name": "Рюкзак «BALMAIN»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/backpacks/2025/805.png"
 						},
 						{
 							"name": "Рюкзак «BALMAIN»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/backpacks/2025/806.png"
 						},
 						{
 							"name": "Рюкзак «BAPE»",
-							"price": 900000,
+							"price": 700000,
 							"img": "images/backpacks/2025/809.png"
 						},
 						{
 							"name": "Рюкзак «BAPE»",
-							"price": 900000,
+							"price": 700000,
 							"img": "images/backpacks/2025/810.png"
 						},
 						{
 							"name": "Рюкзак «FENDI»",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/backpacks/2025/807.png"
 						},
 						{
 							"name": "Рюкзак «FENDI»",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/backpacks/2025/808.png"
 						},
 						{
 							"name": "Рюкзак «adidas Originals»",
-							"price": 700000,
+							"price": 600000,
 							"img": "images/backpacks/2025/814.png"
 						},
 						{
 							"name": "Рюкзак «adidas Originals»",
-							"price": 700000,
+							"price": 600000,
 							"img": "images/backpacks/2025/813.png"
 						}
 					]
@@ -791,12 +813,12 @@
 					[
 						{
 							"name": "Рюкзак «Beetlejuice»",
-							"price": 4000000,
+							"price": 3000000,
 							"img": "images/backpacks/723.png"
 						},
 						{
 							"name": "Рюкзак «Glow Head»",
-							"price": 3500000,
+							"price": 2500000,
 							"img": "images/backpacks/722.png"
 						}
 					]
@@ -808,7 +830,7 @@
 					[
 						{
 							"name": "Рюкзак «Radio Legend»",
-							"price": 8000000,
+							"price": 6000000,
 							"img": "images/backpacks/693.png"
 						}
 					]
@@ -820,7 +842,7 @@
 					[
 						{
 							"name": "Рюкзак «С Юбилеем, Провинция»",
-							"price": 6000000,
+							"price": 4000000,
 							"img": "images/backpacks/644.png"
 						}
 					]
@@ -844,7 +866,7 @@
 					[
 						{
 							"name": "Рюкзак «Covenant»",
-							"price": 15000000,
+							"price": 10000000,
 							"img": "images/backpacks/585.png"
 						}
 					]
@@ -860,13 +882,23 @@
 							"img": "images/backpacks/2023/541.png"
 						},
 						{
+							"name": "Рюкзак «Versace» (5 сл.)",
+							"price": 1000000,
+							"img": "images/backpacks/2023/549.png"
+						},
+						{
 							"name": "Рюкзак «Balenciaga» (5 сл.)",
-							"price": 1500000,
+							"price": 1000000,
 							"img": "images/backpacks/2023/548.png"
 						},
 						{
 							"name": "Рюкзак «Eastpak» (5 сл.)",
 							"price": 1000000,
+							"img": "images/backpacks/2023/543.png"
+						},
+						{
+							"name": "Рюкзак «Eastpak» (5 сл.)",
+							"price": 700000,
 							"img": "images/backpacks/2023/544.png"
 						}
 					]
@@ -878,7 +910,7 @@
 					[
 						{
 							"name": "Рюкзак «Nike» (5 сл.)",
-							"price": 1500000,
+							"price": 1200000,
 							"img": "images/backpacks/346.png"
 						}
 					]
