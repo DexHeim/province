@@ -38,7 +38,7 @@
 						},
 						{
 							"name": "Половина «Черная каллиграфия»",
-							"price": 4000000,
+							"price": 4500000,
 							"img": "images/vinyls/2025_04.png"
 						},
 						{
@@ -491,6 +491,37 @@
 							"name": "Меховые наушники «Marmalato» (коричневые)",
 							"price": 150000,
 							"img": "images/head/headset/2025/785.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "headphones",
+			"name_ru": "Наушники",
+			"sub_chapters":
+			[
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Наушники «AirPods Max» (зеленые)",
+							"price": 150000,
+							"img": "images/head/headset/511.png"
+						}
+					]
+				},
+				{
+					"name": "winter_2023",
+					"name_ru": "Зима 2023",
+					"items":
+					[
+						{
+							"name": "Наушники «AirPods Max» (черные)",
+							"price": 150000,
+							"img": "images/head/headset/320.png"
 						}
 					]
 				}
