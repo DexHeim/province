@@ -82,17 +82,17 @@
 						},
 						{
 							"name": "Полоса «Martini Racing»",
-							"price": 1500000,
+							"price": 1250000,
 							"img": "images/vinyls/pattern_6.png"
 						},
 						{
 							"name": "Полоса белая",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/vinyls/pattern_2.png"
 						},
 						{
 							"name": "Полоса черная",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/vinyls/pattern_1.png"
 						}
 					]
@@ -148,7 +148,7 @@
 						},
 						{
 							"name": "Volk Racing TE37SL",
-							"price": 200000,
+							"price": 150000,
 							"img": "images/wheels/1073.png"
 						}
 					]
@@ -209,13 +209,8 @@
 					[
 						{
 							"name": "Рамка «Кровавая заря»",
-							"price": 2000000,
+							"price": 1500000,
 							"img": "images/number_frames/156.png"
-						},
-						{
-							"name": "Рамка «Halloween 2024»",
-							"price": 2000000,
-							"img": "images/number_frames/155.png"
 						}
 					]
 				},
@@ -250,6 +245,11 @@
 							"img": "images/number_frames/colors/76.png"
 						},
 						{
+							"name": "Цветная «Бирюзовый»",
+							"price": 500000,
+							"img": "images/number_frames/colors/81.png"
+						},
+						{
 							"name": "Камуфляж «Шоковый бум»",
 							"price": 10000000,
 							"img": "images/number_frames/camouflage/58.png"
@@ -263,6 +263,11 @@
 							"name": "Камуфляж «Лесная маскировка»",
 							"price": 1000000,
 							"img": "images/number_frames/camouflage/90.png"
+						},
+						{
+							"name": "Цветная «Холодный океан»",
+							"price": 400000,
+							"img": "images/number_frames/camouflage/91.png"
 						}
 					]
 				},
@@ -412,6 +417,11 @@
 					"items":
 					[
 						{
+							"name": "Оранжевая шапка «StoneIsland»",
+							"price": 1500000,
+							"img": "images/head/winter/2023/358.png"
+						},
+						{
 							"name": "Черная шапка «The North Face»",
 							"price": 1500000,
 							"img": "images/head/winter/2023/356.png"
@@ -442,6 +452,11 @@
 							"name": "Классическая ушанка",
 							"price": 2500000,
 							"img": "images/head/winter/2023/323.png"
+						},
+						{
+							"name": "Модерн ушанка",
+							"price": 1500000,
+							"img": "images/head/winter/2023/327.png"
 						}
 					]
 				}
@@ -552,6 +567,18 @@
 					]
 				},
 				{
+					"name": "eurovision_2023",
+					"name_ru": "Евровидение 2024",
+					"items":
+					[
+						{
+							"name": "Кепка «Eurovision 2024»",
+							"price": 1500000,
+							"img": "images/head/caps/682.png"
+						}
+					]
+				},
+				{
 					"name": "autumn_2023",
 					"name_ru": "Осень 2023",
 					"items":
@@ -563,18 +590,23 @@
 						},
 						{
 							"name": "Кепка «Ami Paris»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/head/caps/420.png"
 						},
 						{
 							"name": "Кепка «MLB NY Yankees»",
-							"price": 800000,
+							"price": 600000,
 							"img": "images/head/caps/411.png"
 						},
 						{
 							"name": "Красная кепка",
-							"price": 600000,
+							"price": 500000,
 							"img": "images/head/caps/425.png"
+						},
+						{
+							"name": "Кепка «Adidas Originals Adicolor»",
+							"price": 500000,
+							"img": "images/head/caps/414.png"
 						}
 					]
 				},
@@ -604,12 +636,12 @@
 					[
 						{
 							"name": "Панама «MARNI»",
-							"price": 300000,
+							"price": 250000,
 							"img": "images/head/panams/2025/778.png"
 						},
 						{
 							"name": "Панама «MARNI»",
-							"price": 300000,
+							"price": 250000,
 							"img": "images/head/panams/2025/779.png"
 						}
 					]
