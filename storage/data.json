@@ -87,12 +87,12 @@
 						},
 						{
 							"name": "Полоса белая",
-							"price": 500000,
+							"price": 600000,
 							"img": "images/vinyls/pattern_2.png"
 						},
 						{
 							"name": "Полоса черная",
-							"price": 500000,
+							"price": 600000,
 							"img": "images/vinyls/pattern_1.png"
 						}
 					]
