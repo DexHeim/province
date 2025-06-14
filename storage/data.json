@@ -171,11 +171,6 @@
 							"img": "images/number_frames/2025/166.png"
 						},
 						{
-							"name": "Рамка «Циклон-2»",
-							"price": 300000,
-							"img": "images/number_frames/2025/165.png"
-						},
-						{
 							"name": "Рамка «Снеговики-2025»",
 							"price": 800000,
 							"img": "images/number_frames/2025/158.png"
@@ -194,6 +189,16 @@
 							"name": "Рамка «Радиоактивность»",
 							"price": 600000,
 							"img": "images/number_frames/2025/162.png"
+						},
+						{
+							"name": "Рамка «Directed by Robert B. Weide»",
+							"price": 400000,
+							"img": "images/number_frames/2025/168.png"
+						},
+						{
+							"name": "Рамка «Циклон-2»",
+							"price": 300000,
+							"img": "images/number_frames/2025/165.png"
 						}
 					]
 				},
@@ -574,18 +579,13 @@
 					"items":
 					[
 						{
-							"name": "Двухцветная кепка «Palm Angels»",
-							"price": 1500000,
-							"img": "images/head/caps/422.png"
-						},
-						{
 							"name": "Кепка «Ami Paris»",
 							"price": 800000,
 							"img": "images/head/caps/420.png"
 						},
 						{
 							"name": "Кепка «MLB NY Yankees»",
-							"price": 600000,
+							"price": 500000,
 							"img": "images/head/caps/411.png"
 						},
 						{
@@ -595,7 +595,7 @@
 						},
 						{
 							"name": "Кепка «Adidas Originals Adicolor»",
-							"price": 500000,
+							"price": 400000,
 							"img": "images/head/caps/414.png"
 						}
 					]
@@ -652,8 +652,13 @@
 							"img": "images/head/panams/2023/428.png"
 						},
 						{
-							"name": "Летняя панама",
+							"name": "Панама «DC»",
 							"price": 500000,
+							"img": "images/head/panams/2023/432.png"
+						},
+						{
+							"name": "Летняя панама",
+							"price": 300000,
 							"img": "images/head/panams/2023/435.png"
 						}
 					]
@@ -677,12 +682,12 @@
 						},
 						{
 							"name": "Соломенная синяя шляпа",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/head/hats/450.png"
 						},
 						{
 							"name": "Соломенная белая шляпа",
-							"price": 700000,
+							"price": 500000,
 							"img": "images/head/hats/449.png"
 						}
 					]
@@ -960,6 +965,50 @@
 							"name": "Рюкзак «Nike» (5 сл.)",
 							"price": 1200000,
 							"img": "images/backpacks/346.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "travel_bags",
+			"name_ru": "Дорожные сумки",
+			"sub_chapters":
+			[
+				{
+					"name": "winter_2025",
+					"name_ru": "Зима 2025",
+					"items":
+					[
+						{
+							"name": "Дорожная сумка «Brunello Cucinelli»",
+							"price": 1500000,
+							"img": "images/travel_bags/2025/815.png"
+						},
+						{
+							"name": "Дорожная сумка «Burberry»",
+							"price": 1000000,
+							"img": "images/travel_bags/2025/821.png"
+						},
+						{
+							"name": "Дорожная сумка «Prada»",
+							"price": 700000,
+							"img": "images/travel_bags/2025/820.png"
+						},
+						{
+							"name": "Дорожная сумка «Fred Perry»",
+							"price": 700000,
+							"img": "images/travel_bags/2025/818.png"
+						},
+						{
+							"name": "Дорожная сумка «Fred Perry»",
+							"price": 500000,
+							"img": "images/travel_bags/2025/817.png"
+						},
+						{
+							"name": "Дорожная сумка «Fred Perry»",
+							"price": 500000,
+							"img": "images/travel_bags/2025/816.png"
 						}
 					]
 				}
