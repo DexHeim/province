@@ -599,18 +599,6 @@
 							"img": "images/head/caps/414.png"
 						}
 					]
-				},
-				{
-					"name": "spring_2023",
-					"name_ru": "Весна 2023",
-					"items":
-					[
-						{
-							"name": "Кепка «Hugo Boss»",
-							"price": 1000000,
-							"img": "images/head/caps/352.png"
-						}
-					]
 				}
 			]
 		},

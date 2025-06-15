@@ -218,7 +218,12 @@
 				chapter.appendChild(a_chapter);
 				
 				item.sub_chapters.forEach((item) => {
-					let subchapter = document.querySelector('#' + chapter_name + '_' + item.name);
+					let subchapter_container = document.createElement('div');
+					let subchapter = document.createElement('h3'); //document.querySelector('#' + chapter_name + '_' + item.name);
+					subchapter.id = chapter_name + '_' + item.name;
+					subchapter_container.appendChild(subchapter);
+					chapter.parentNode.appendChild(subchapter_container);
+					
 					let a_subchapter = document.createElement('a');
 					a_subchapter.href = '#' + chapter_name + '_' + item.name;
 					a_subchapter.innerText = item.name_ru;
@@ -290,8 +295,8 @@
 		</div>
 		
 		<!-- Винилы -->
-        <h2 id="vinyls"></h2>
         <div>
+			<h2 id="vinyls"></h2>
 			<div>
 				<h3 id="vinyls_winter_2025"></h3>
 			</div>
@@ -304,8 +309,8 @@
         </div>
 
 		<!-- Диски -->
-		<h2 id="disks"></h2>
 		<div>
+			<h2 id="disks"></h2>
 			<div>
 				<h3 id="disks_winter_2025"></h3>
 			</div>
@@ -315,8 +320,8 @@
 		</div>
 		
 		<!-- Номерные рамки -->
-		<h2 id="number_frames"></h2>
 		<div>
+			<h2 id="number_frames"></h2>
 			<div>
 				<h3 id="number_frames_winter_2025"></h3>
 			</div>
@@ -332,8 +337,8 @@
 		</div>
 
 		<!-- Мотошлемы -->
-		<h2 id="helmets"></h2>
 		<div>
+			<h2 id="helmets"></h2>
 			<div>
 				<h3 id="helmets_winter_2025"></h3>
 			</div>
@@ -341,8 +346,8 @@
 		
 		
 		<!-- Шапки -->
-		<h2 id="winter_hats"></h2>
 		<div>
+			<h2 id="winter_hats"></h2>
 			<div>
 				<h3 id="winter_hats_winter_2025"></h3>
 			</div>
@@ -355,16 +360,16 @@
 		</div>
 		
 		<!-- Меховые наушники -->
-		<h2 id="fur_headphones"></h2>
 		<div>
+			<h2 id="fur_headphones"></h2>
 			<div>
 				<h3 id="fur_headphones_winter_2025"></h3>
 			</div>
 		</div>
 		
 		<!-- Наушники -->
-		<h2 id="headphones"></h2>
 		<div>
+			<h2 id="headphones"></h2>
 			<div>
 				<h3 id="headphones_autumn_2023"></h3>
 			</div>
@@ -374,8 +379,8 @@
 		</div>
 		
 		<!-- Кепки -->
-		<h2 id="caps"></h2>
 		<div>
+			<h2 id="caps"></h2>
 			<div>
 				<h3 id="caps_radio_legend_2024"></h3>
 			</div>
@@ -388,14 +393,11 @@
 			<div>
 				<h3 id="caps_autumn_2023"></h3>
 			</div>
-			<div>
-				<h3 id="caps_spring_2023"></h3>
-			</div>
 		</div>
 		
 		<!-- Панамы -->
-		<h2 id="panams"></h2>
 		<div>
+			<h2 id="panams"></h2>
 			<div>
 				<h3 id="panams_winter_2025"></h3>
 			</div>
@@ -405,16 +407,16 @@
 		</div>
 		
 		<!-- Шляпы -->
-		<h2 id="hats"></h2>
 		<div>
+			<h2 id="hats"></h2>
 			<div>
 				<h3 id="hats_autumn_2023"></h3>
 			</div>
 		</div>
 		
 		<!-- Зонты -->
-		<h2 id="umbrellas"></h2>
 		<div>
+			<h2 id="umbrellas"></h2>
 			<div>
 				<h3 id="umbrellas_halloween_2024"></h3>
 			</div>
@@ -427,8 +429,8 @@
 		</div>
 
 		<!-- Рюкзаки -->
-		<h2 id="backpacks"></h2>
 		<div>
+			<h2 id="backpacks"></h2>
 			<div>
 				<h3 id="backpacks_winter_2025"></h3>
 			</div>
@@ -456,22 +458,28 @@
 		</div>
 		
 		<!-- Дорожные сумки -->
-		<h2 id="travel_bags"></h2>
 		<div>
+			<h2 id="travel_bags"></h2>
 			<div>
 				<h3 id="travel_bags_winter_2025"></h3>
 			</div>
 		</div>
 		
-		<!-- Портфели/Сумочки/Клатчи -->
+		<!-- Портфели -->
+		
+		<!-- Сумочки -->
+		
+		<!-- Клатчи -->
+		
+		<!-- <Барсетки -->
 		
 		<!-- Наспинные аксессуары -->
 		
 		<!-- Прочие аксессуары -->
 		
 		<!-- Экспорт -->
-		<h2 id="export">Экспорт</h2>
 		<div>
+			<h2 id="export">Экспорт</h2>
 			<div>
 				<h3 id="export_items">Экспорт</h3>
 			</div>
