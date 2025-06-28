@@ -272,9 +272,14 @@
 		
 		loadStorage();
 		
-		//window.onload = function() {
-		//	paintStorage();
-		//};
+		window.onload = function() {
+			if (window.location.hash !== '') {
+				let elemPos = document.querySelector(window.location.hash);
+				
+				if (elemPos)
+					elemPos.scrollIntoView();
+			}
+		};
 	</script>
 </head>
 <body>
