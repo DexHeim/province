@@ -377,9 +377,19 @@
 							"img": "images/head/winter/2025/769.png"
 						},
 						{
-							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (черная)",
+							"name": "Шапка-ушанка «VICTORIA KUSENKOVA»",
 							"price": 1000000,
+							"img": "images/head/winter/2025/855.png"
+						},
+						{
+							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (черная)",
+							"price": 800000,
 							"img": "images/head/winter/2025/762.png"
+						},
+						{
+							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (белая)",
+							"price": 800000,
+							"img": "images/head/winter/2025/763.png"
 						},
 						{
 							"name": "Пилотка «PRADA» (черная)",
