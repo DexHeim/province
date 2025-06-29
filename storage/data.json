@@ -137,11 +137,6 @@
 							"img": "images/wheels/5037.png"
 						},
 						{
-							"name": "Work VS-KF",
-							"price": 700000,
-							"img": "images/wheels/5072.png"
-						},
-						{
 							"name": "Volk Racing TE37SL",
 							"price": 150000,
 							"img": "images/wheels/1073.png"
@@ -162,42 +157,42 @@
 					[
 						{
 							"name": "Рамка «Сакура»",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/number_frames/2025/169.png"
 						},
 						{
 							"name": "Рамка «Зимний узор»",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/number_frames/2025/166.png"
 						},
 						{
 							"name": "Рамка «Снеговики-2025»",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/number_frames/2025/158.png"
 						},
 						{
 							"name": "Рамка «Тысяча порезов»",
-							"price": 700000,
+							"price": 600000,
 							"img": "images/number_frames/2025/161.png"
 						},
 						{
 							"name": "Рамка «Winter Drift Machine»",
-							"price": 600000,
+							"price": 500000,
 							"img": "images/number_frames/2025/167.png"
 						},
 						{
 							"name": "Рамка «Радиоактивность»",
-							"price": 600000,
+							"price": 500000,
 							"img": "images/number_frames/2025/162.png"
 						},
 						{
 							"name": "Рамка «Directed by Robert B. Weide»",
-							"price": 400000,
+							"price": 300000,
 							"img": "images/number_frames/2025/168.png"
 						},
 						{
 							"name": "Рамка «Циклон-2»",
-							"price": 300000,
+							"price": 200000,
 							"img": "images/number_frames/2025/165.png"
 						}
 					]
@@ -319,6 +314,23 @@
 							"name": "Мотошлем интеграл «Icon» (серый)",
 							"price": 800000,
 							"img": "images/helmets/787.png"
+						}
+					]
+				},
+				{
+					"name": "autumn_2023",
+					"name_ru": "Осень 2023",
+					"items":
+					[
+						{
+							"name": "Кроссовый шлем",
+							"price": 1000000,
+							"img": "images/helmets/555.png"
+						},
+						{
+							"name": "Кроссовый шлем",
+							"price": 700000,
+							"img": "images/helmets/556.png"
 						}
 					]
 				}
