@@ -245,6 +245,11 @@
 							"img": "images/number_frames/colors/76.png"
 						},
 						{
+							"name": "Цветная «Лаймовый»",
+							"price": 400000,
+							"img": "images/number_frames/colors/88.png"
+						},
+						{
 							"name": "Камуфляж «Шоковый бум»",
 							"price": 10000000,
 							"img": "images/number_frames/camouflage/58.png"
@@ -260,7 +265,7 @@
 							"img": "images/number_frames/camouflage/90.png"
 						},
 						{
-							"name": "Цветная «Холодный океан»",
+							"name": "Камуфляж «Холодный океан»",
 							"price": 400000,
 							"img": "images/number_frames/camouflage/91.png"
 						}
@@ -640,6 +645,11 @@
 							"img": "images/head/panams/2023/432.png"
 						},
 						{
+							"name": "Панама с принтом камуфляжа",
+							"price": 500000,
+							"img": "images/head/panams/2023/434.png"
+						},
+						{
 							"name": "Летняя панама",
 							"price": 300000,
 							"img": "images/head/panams/2023/435.png"
@@ -672,6 +682,16 @@
 							"name": "Соломенная белая шляпа",
 							"price": 500000,
 							"img": "images/head/hats/449.png"
+						},
+						{
+							"name": "Белая шляпа в серую полоску",
+							"price": 300000,
+							"img": "images/head/hats/444.png"
+						},
+						{
+							"name": "Белая шляпа в синюю полоску",
+							"price": 500000,
+							"img": "images/head/hats/442.png"
 						}
 					]
 				}
@@ -916,11 +936,6 @@
 							"name": "Рюкзак «Burberry» (10 сл.)",
 							"price": 30000000,
 							"img": "images/backpacks/2023/541.png"
-						},
-						{
-							"name": "Рюкзак «Versace» (5 сл.)",
-							"price": 1000000,
-							"img": "images/backpacks/2023/549.png"
 						},
 						{
 							"name": "Рюкзак «Balenciaga» (5 сл.)",
