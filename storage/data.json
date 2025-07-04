@@ -607,13 +607,8 @@
 						},
 						{
 							"name": "Кепка «MLB NY Yankees»",
-							"price": 500000,
+							"price": 400000,
 							"img": "images/head/caps/411.png"
-						},
-						{
-							"name": "Красная кепка",
-							"price": 500000,
-							"img": "images/head/caps/425.png"
 						}
 					]
 				}
