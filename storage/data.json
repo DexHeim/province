@@ -230,11 +230,6 @@
 							"img": "images/number_frames/colors/80.png"
 						},
 						{
-							"name": "Цветная «Зеленый»",
-							"price": 700000,
-							"img": "images/number_frames/colors/85.png"
-						},
-						{
 							"name": "Цветная «Фиолетовый»",
 							"price": 1000000,
 							"img": "images/number_frames/colors/76.png"
@@ -251,12 +246,12 @@
 						},
 						{
 							"name": "Камуфляж «Озарённый лес»",
-							"price": 1000000,
+							"price": 800000,
 							"img": "images/number_frames/camouflage/94.png"
 						},
 						{
 							"name": "Камуфляж «Лесная маскировка»",
-							"price": 1000000,
+							"price": 600000,
 							"img": "images/number_frames/camouflage/90.png"
 						},
 						{
