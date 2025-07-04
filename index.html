@@ -151,7 +151,7 @@
 			var chapter = document.querySelector('#export');
 			let container = document.querySelector('div.container');
 			if (chapter)
-				chapter.remove();
+				chapter.parentNode.remove();
 			chapter = document.createElement('h2');
 			chapter.id = 'export';
 			chapter.innerText = 'Экспорт';
