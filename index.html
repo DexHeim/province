@@ -148,11 +148,21 @@
 		
 		function exportStorage() {
 			let exportOut = '';
-			var chapter = document.querySelector('#export_items');
+			let container = document.querySelector('div.container');
+			let chapter = document.createElement('h2');
+			chapter.id = 'export';
+			let chapter_container = document.createElement('div');
+			let subchapter = document.createElement('h3');
+			subchapter.id = 'export_items';
+			let subchapter_container = document.createElement('div');
+			container.appendChild(chapter_container);
+			chapter_container.appendChild(chapter);
+			chapter_container.appendChild(subchapter_container);
+			subchapter_container.appendChild(subchapter);
 			
 			var items_container = document.createElement('div');
 			items_container.className = 'item-list';
-			chapter.parentNode.appendChild(items_container);
+			chapter_container.appendChild(items_container);
 			
 			storage.chapters.forEach((item) => {
 				exportOut += '\n' + '‣ ' + item.name_ru + '\n';
@@ -385,10 +395,7 @@
 		
 		<!-- Экспорт -->
 		<div>
-			<h2 id="export">Экспорт</h2>
-			<div>
-				<h3 id="export_items">Экспорт</h3>
-			</div>
+			<h3 onClick='exportStorage();'>Экспорт</h3>
 		</div>
 	</div>
 
