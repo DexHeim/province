@@ -292,7 +292,7 @@
 					[
 						{
 							"name": "Мотошлем интеграл «Icon» (оранжевый)",
-							"price": 2000000,
+							"price": 1500000,
 							"img": "images/helmets/789.png"
 						},
 						{
@@ -383,12 +383,12 @@
 						},
 						{
 							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (черная)",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/head/winter/2025/762.png"
 						},
 						{
 							"name": "Шапка-ушанка «VICTORIA KUSENKOVA» (белая)",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/head/winter/2025/763.png"
 						},
 						{
@@ -413,22 +413,22 @@
 						},
 						{
 							"name": "Шапка бини «Stone Island» (черная)",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/winter/2025/772.png"
 						},
 						{
 							"name": "Шапка бини «Stone Island» (белая)",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/winter/2025/773.png"
 						},
 						{
 							"name": "Шапка бини «Fred Perry» (черная)",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/winter/2025/770.png"
 						},
 						{
 							"name": "Шапка бини «Fred Perry» (белая)",
-							"price": 500000,
+							"price": 300000,
 							"img": "images/head/winter/2025/771.png"
 						}
 					]
