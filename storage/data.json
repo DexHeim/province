@@ -231,7 +231,12 @@
 						},
 						{
 							"name": "Цветная «Фиолетовый»",
-							"price": 1000000,
+							"price": 700000,
+							"img": "images/number_frames/colors/76.png"
+						},
+						{
+							"name": "Цветная «Зеленый»",
+							"price": 700000,
 							"img": "images/number_frames/colors/76.png"
 						},
 						{
