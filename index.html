@@ -148,12 +148,17 @@
 		
 		function exportStorage() {
 			let exportOut = '';
+			var chapter = document.querySelector('#export');
 			let container = document.querySelector('div.container');
-			let chapter = document.createElement('h2');
+			if (chapter)
+				chapter.remove();
+			chapter = document.createElement('h2');
 			chapter.id = 'export';
+			chapter.innerText = 'Экспорт';
 			let chapter_container = document.createElement('div');
 			let subchapter = document.createElement('h3');
 			subchapter.id = 'export_items';
+			subchapter.innerText = 'Экспорт';
 			let subchapter_container = document.createElement('div');
 			container.appendChild(chapter_container);
 			chapter_container.appendChild(chapter);
