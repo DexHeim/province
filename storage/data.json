@@ -306,8 +306,13 @@
 							"img": "images/helmets/788.png"
 						},
 						{
+							"name": "Мотошлем интеграл «Icon» (камуфляж)",
+							"price": 1000000,
+							"img": "images/helmets/786.png"
+						},
+						{
 							"name": "Мотошлем интеграл «Icon» (серый)",
-							"price": 800000,
+							"price": 700000,
 							"img": "images/helmets/787.png"
 						}
 					]
@@ -442,6 +447,11 @@
 							"name": "Черная шапка «The North Face»",
 							"price": 1500000,
 							"img": "images/head/winter/2023/356.png"
+						},
+						{
+							"name": "Шапка «Пикачу с ушками»",
+							"price": 300000,
+							"img": "images/head/winter/2023/339.png"
 						}
 					]
 				},
@@ -604,6 +614,11 @@
 							"name": "Кепка «Ami Paris»",
 							"price": 800000,
 							"img": "images/head/caps/420.png"
+						},
+						{
+							"name": "Красная кепка",
+							"price": 500000,
+							"img": "images/head/caps/425.png"
 						},
 						{
 							"name": "Кепка «MLB NY Yankees»",
