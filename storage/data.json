@@ -230,21 +230,6 @@
 							"img": "images/number_frames/colors/80.png"
 						},
 						{
-							"name": "Цветная «Фиолетовый»",
-							"price": 700000,
-							"img": "images/number_frames/colors/76.png"
-						},
-						{
-							"name": "Цветная «Зеленый»",
-							"price": 700000,
-							"img": "images/number_frames/colors/85.png"
-						},
-						{
-							"name": "Цветная «Лаймовый»",
-							"price": 400000,
-							"img": "images/number_frames/colors/88.png"
-						},
-						{
 							"name": "Камуфляж «Шоковый бум»",
 							"price": 10000000,
 							"img": "images/number_frames/camouflage/58.png"
@@ -273,7 +258,7 @@
 					[
 						{
 							"name": "Золотая рамка PROVINCE",
-							"price": 400000,
+							"price": 350000,
 							"img": "images/number_frames/60.png"
 						}
 					]
@@ -533,37 +518,6 @@
 							"name": "Меховые наушники «Marmalato» (коричневые)",
 							"price": 150000,
 							"img": "images/head/headset/2025/785.png"
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "headphones",
-			"name_ru": "Наушники",
-			"sub_chapters":
-			[
-				{
-					"name": "autumn_2023",
-					"name_ru": "Осень 2023",
-					"items":
-					[
-						{
-							"name": "Наушники «AirPods Max» (зеленые)",
-							"price": 500000,
-							"img": "images/head/headset/511.png"
-						}
-					]
-				},
-				{
-					"name": "winter_2023",
-					"name_ru": "Зима 2023",
-					"items":
-					[
-						{
-							"name": "Наушники «AirPods Max» (черные)",
-							"price": 500000,
-							"img": "images/head/headset/320.png"
 						}
 					]
 				}
