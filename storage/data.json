@@ -226,8 +226,13 @@
 						},
 						{
 							"name": "Цветная «Кислотный»",
-							"price": 3000000,
+							"price": 5000000,
 							"img": "images/number_frames/colors/80.png"
+						},
+						{
+							"name": "Цветная «Зеленый»",
+							"price": 1000000,
+							"img": "images/number_frames/colors/85.png"
 						},
 						{
 							"name": "Камуфляж «Шоковый бум»",
